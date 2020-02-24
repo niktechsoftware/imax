@@ -1,7 +1,7 @@
 <?php $this->load->view("headerCss");?>
        
                 <!-- Filter Search-->
-           <?php  // $this->load->view("slider_form"); ?>
+           <?php   $this->load->view("slider_form"); ?>
                 <!-- Filter Search-->              
                 
                 <!-- Slide -->           

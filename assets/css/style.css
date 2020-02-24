@@ -53,24 +53,24 @@
 /* ---------------------------------------------------------------------- */
 
 /* bootstrap.css  - include resetes ( Media querys, grid-responsive,layout).*/
-@import url("<?php echo base_url();?>assets/css/bootstrap/bootstrap.css");
-@import url("<?php echo base_url();?>assets/css/bootstrap/bootstrap-theme.css");
+@import url("bootstrap/bootstrap.css");
+@import url("bootstrap/bootstrap-theme.css");
 /*Style Switcher*/
-@import url("<?php echo base_url();?>assets/css/skins/theme-options.css");
+@import url("skins/theme-options.css");
 /*Style Responsive*/
-@import url("<?php echo base_url();?>assets/css/theme-responsive.css");
+@import url("theme-responsive.css");
 /*slide.css*/
-@import url("<?php echo base_url();?>assets/css/slide/camera.css");
+@import url("slide/camera.css");
 /* owlcarousel */
-@import url("<?php echo base_url();?>assets/css/owlcarousel/owl.carousel.css");
+@import url("owlcarousel/owl.carousel.css");
 @import url("owlcarousel/owl.theme.css");
 /*Icons Font-Awesome*/
-@import url("<?php echo base_url();?>assets/css/icons/font-awesome.min.css");
+@import url("icons/font-awesome.min.css");
 /*Animations*/
-@import url("<?php echo base_url();?>assets/css/animations/animate.css");
+@import url("animations/animate.css");
 /*Google Fonts*/
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,300,700,800");
-@import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,300,700,800");
+@import url("http://fonts.googleapis.com/css?family=Roboto:400,700");
 
 
 /* ---------------------------------------------------------------------- */
@@ -488,7 +488,7 @@ html ul.tabs li.active a{
 	cursor: pointer;
 	font-weight: bold;
 	border: 1px solid #dbdbdb;
-	background: #f9f9f9 url("<?php echo base_url();?>assets/img/img-theme/toggle.png") no-repeat right 14px;
+	background: #f9f9f9 url("../img/img-theme/toggle.png") no-repeat right 14px;
 	-webkit-transition: all .1s linear;
 	-moz-transition: all .1s linear;
 	-o-transition: all .1s linear;
@@ -524,11 +524,11 @@ html ul.tabs li.active a{
 	height:51px;
 	border:none;
 	text-indent:100%;
-	background:url("<?php echo base_url();?>assets/img/img-theme/ui.totop.png") no-repeat left top;
+	background:url("../img/img-theme/ui.totop.png") no-repeat left top;
 	z-index: 9999;
 }
 #toTopHover {
-	background:url("<?php echo base_url();?>assets/img/img-theme/ui.totop.png") no-repeat left -51px;
+	background:url("../img/img-theme/ui.totop.png") no-repeat left -51px;
 	width:51px;
 	height:51px;
 	display:block;
@@ -911,28 +911,28 @@ nav{
 	top: 12px;
 }
 .about{
-	background: url("<?php echo base_url();?>assets/img/titles/1.jpg");
+	background: url("../img/titles/1.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	background-position: center center;
 }
 .properties{
-	background: url("<?php echo base_url();?>assets/img/titles/2.jpg");
+	background: url("../img/titles/2.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	background-position: center center;
 }
 .features{
-	background: url("<?php echo base_url();?>assets/img/titles/3.jpg");
+	background: url("../img/titles/3.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	background-position: center center;
 }
 .contact{
-	background: url("<?php echo base_url();?>assets/img/titles/4.jpg");
+	background: url("../img/titles/4.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1179,7 +1179,7 @@ nav{
 	height: 100%;
 }
 .info_property_h h4{
-	background-image: url("<?php echo base_url();?>assets/img/img-theme/border.png");
+	background-image: url("../img/img-theme/border.png");
 	background-position: left bottom;
 	background-repeat: repeat-x;
 	font-size: 18px;
@@ -1437,7 +1437,7 @@ nav{
 /* Process --------------------------------------------- */
 
 .service-process{
-	background-image:url('<?php echo base_url();?>assets/img/img-theme/service-bg.png');
+	background-image:url('../img/img-theme/service-bg.png');
 	background-repeat:no-repeat;
 	background-size:100% auto;
 	background-position:center center;	
@@ -1915,7 +1915,7 @@ form{
 	color: #222;	
 }
 .arrow_table_yellow{
-	background: url("<?php echo base_url();?>assets/img/img-theme/arrow_table_yellow.html") no-repeat center center;
+	background: url("../img/img-theme/arrow_table_yellow.html") no-repeat center center;
 	left: 0;
 	height: 26px;
 	position: absolute;
@@ -2030,7 +2030,7 @@ form{
 }
 
 .arrow_team_gray{
-	background: url("<?php echo base_url();?>assets/img/img-theme/arrow_team_gray.html") no-repeat center center;	
+	background: url("../img/img-theme/arrow_team_gray.html") no-repeat center center;	
 	height: 17px;
 	left: 0;
 	position: absolute;
@@ -2038,7 +2038,7 @@ form{
 	width: 100%;
 }
 .arrow_team_white{
-	background: url("<?php echo base_url();?>assets/img/img-theme/arrow_team_white.html") no-repeat center center;
+	background: url("../img/img-theme/arrow_team_white.html") no-repeat center center;
 	left: 0;
 	height: 17px;
 	position: absolute;

@@ -114,6 +114,7 @@
                     </div>
                 </div>
             </nav>
+		
              <!-- End Theme-options -->   
 
         <!-- layout-->
