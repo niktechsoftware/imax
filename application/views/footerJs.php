@@ -108,7 +108,7 @@
                 <div class="container">
                     <div class="row">
                        <div class="col-md-6">
-                            <p>&copy; 2014 Full State - Real State Template. All rights reserved.</p>             
+                            <p>&copy; 2020 Design by NIKTECH SOFTWARE SOLUTHIONS.</p>             
                         </div>
                         <div class="col-md-6">
                             <ul class="social tooltip-demo">

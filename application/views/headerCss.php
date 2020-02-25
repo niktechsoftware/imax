@@ -33,14 +33,14 @@
               </div>
               <span>SKINS COLOR</span>
               <ul class="colorbox">      
-                  <li><a class="red" href="index0e99.html?theme=red" title="Red Skin"></a></li>
-                  <li><a class="blue" href="indexca00.html?theme=blue" title="Blue Skin"></a></li>                    
-                  <li><a class="yellow" href="index2746.html?theme=yellow" title="Yellow Skin"></a></li>
-                  <li><a class="green" href="indexaf91.html?theme=green" title="Green Skin"></a></li>
-                  <li><a class="orange" href="indexceb0.html?theme=orange" title="Orange Skin"></a></li>
-                  <li><a class="purple" href="index938c.html?theme=purple" title="Purple Skin"></a></li>
-                  <li><a class="pink" href="indexa820.html?theme=pink" title="Pink Skin"></a></li>
-                  <li><a class="cocoa" href="index6788.html?theme=cocoa" title="Cocoa Skin"></a></li>
+                  <li><a class="red" href="<?php echo base_url();?>assets/index0e99.html?theme=red" title="Red Skin"></a></li>
+                  <li><a class="blue" href="<?php echo base_url();?>assets/indexca00.html?theme=blue" title="Blue Skin"></a></li>                    
+                  <li><a class="yellow" href="<?php echo base_url();?>assets/index2746.html?theme=yellow" title="Yellow Skin"></a></li>
+                  <li><a class="green" href="<?php echo base_url();?>assets/indexaf91.html?theme=green" title="Green Skin"></a></li>
+                  <li><a class="orange" href="<?php echo base_url();?>assets/indexceb0.html?theme=orange" title="Orange Skin"></a></li>
+                  <li><a class="purple" href="<?php echo base_url();?>assets/index938c.html?theme=purple" title="Purple Skin"></a></li>
+                  <li><a class="pink" href="<?php echo base_url();?>assets/indexa820.html?theme=pink" title="Pink Skin"></a></li>
+                  <li><a class="cocoa" href="<?php echo base_url();?>assets/index6788.html?theme=cocoa" title="Cocoa Skin"></a></li>
               </ul>
               <span>LAYOUT STYLE</span>
               <ul class="layout-style">      
