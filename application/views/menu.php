@@ -63,12 +63,12 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3 logo">
-                            <a href="index.html"><img src="<?php echo base_url();?>assets/img/logo.png" alt="Image" class="logo_img"></a>
+                            <a href="index.html"><img src="<?php echo base_url();?>assets/images/logo.jpeg" alt="Image" class="logo_images"></a>
                         </div>
                         <!-- Menu-->
                         <ul id="menu" class="col-md-9 sf-menu">
                             <li>
-                                <a href="<?php echo base_url();?>>index">HOME</a>
+                                <a href="<?php echo base_url();?>index.php">HOME</a>
                                 <ul> 
                                    <!--  <li><a href="index.html">Home Version 1</a></li>                                 
                                     <li><a href="index-list.html">Home Version 2</a></li>
@@ -85,7 +85,7 @@
                              <li>
                                 <a href="#">PRODUCTS</a>
                                 <ul>
-                                 <li><a href="index.html">land Investment</a></li>                                 
+                                 <li><a href="<?php echo base_url();?>index.php/welcome/land">land Investment</a></li>                                 
                                     <li><a href="index-list.html">Home Investment </a></li>
                                 </ul>
                                 </li>

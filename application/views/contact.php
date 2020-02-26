@@ -1,15 +1,63 @@
 <?php $this->load->view('headerCss');?>
-	<div id="map" style="height:500px;width:1000px;">
-	<div id="map1" style="height:500px;width:700px;float:left;">
-	
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3571.2373630050615!2d80.27799036503582!3d26.480301283315725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399c381c48fcf957%3A0x81c0cb6225bdaf8a!2sRoshan%20Nagar%2C%20Rajivpuram%2C%20Kakadeo%2C%20Kanpur%2C%20Uttar%20Pradesh%20208024!5e0!3m2!1sen!2sin!4v1582676723133!5m2!1sen!2sin" width="600" height="500" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-	
-	</div>
-	<div id="map2" style="height:500px;width:600px;float:left;">
-	
-	hiii
-	</div>
-	</div>
+	<div class="row">
+<div class="col-sm-6 content" style="float:left;">
+
+
+
+
+<div class="row" style="margin-left:9%;">
+</br>
+</br>
+   <form action="#" class="appointment-form ftco-animate" method="post">
+<div class="d-md-flex">
+<div class="form-group">
+<input type="text" class="form-control" placeholder="First Name" name="fname"/>
+</div>
+<div class="form-group ml-md-2">
+<input type="text" class="form-control" placeholder="Last Name" name="lname">
+</div>
+</div>
+<div class="d-md-flex">
+<div class="form-group">
+<div class="form-field">
+<div class="select-wrap">
+<div class="icon"><span class="ion-ios-arrow-down"></span></div>
+
+</div>
+</div>
+<div class="form-group ml-md-2">
+<input type="text" class="form-control" placeholder="Phone" name="phone">
+</div>
+</div>
+
+<div class="d-md-flex">
+<div class="form-group">
+<textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Message" name="message"></textarea>
+</div>
+<div class="form-group ml-md-3">
+<input type="submit"  class="btn btn-secondary py-2 px-3">
+</div>
+</div>
+</form>
+    </div>  
+      
+      </div>
+       </div>
+<div class="col-sm-6 content" style="float:right;">
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14285.043380453084!2d80.280234!3d26.479545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5b8ac1221b58e3c!2sKhan%20fancy%20Handloom!5e0!3m2!1sen!2sin!4v1582699062721!5m2!1sen!2sin" width="700" height="450" frameborder="0" style="border:0;" allowfullscreen="">
+</iframe>
+
+
+
+
+</div>
+
+
+</div>
+
+
 
 
 

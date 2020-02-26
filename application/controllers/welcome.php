@@ -35,6 +35,10 @@ class Welcome extends CI_Controller {
 	
 	
 	}
+	public function land()
+	{
+		$this->load->view('land');
+	}
 	
 	
 }

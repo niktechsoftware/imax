@@ -25,7 +25,7 @@
                     <!-- End Item Slide -->  
 
                     <!-- Item Slide --> 
-                    <div data-src="<?php echo base_url();?>assets/img//s5.jpeg">
+                    <div data-src="<?php echo base_url();?>assets/images/45.jpg">
                         <div class="camera_caption fadeFromTop">
                              <div class="container"> 
                                 <div class="row">
