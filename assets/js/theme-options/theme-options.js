@@ -29,8 +29,8 @@
     // Theme Panel - disable panel options
     var themepanel = "1"; // 1 (default - enable), 0 ( disable)
 
-    $(".skin").attr("href", "css/skins/"+ skin + "/" + skin + ".css");
-    $(".logo_img").attr("src", "css/skins/" + "/" + skin + "/" + "logo.png");
+    $(".skin").attr("href", "https://imaxinfra.com/assets/css/skins/"+ skin + "/" + skin + ".css");
+    $(".logo_img").attr("src", "https://imaxinfra.com/assets/css/skins/" + "/" + skin + "/" + "logo.png");
     $("#layout").addClass(layout);	
     $("body").addClass(bg);   
     $("#theme-options").css('opacity' , themepanel);
@@ -83,50 +83,50 @@
 
     // Color changer
     $(".red").click(function(){
-    	$(".skin").attr("href", "css/skins/red/red.css");
-    	$(".logo_img").attr("src", "css/skins/red/logo.png");
+    	$(".skin").attr("href", "https://imaxinfra.com/assets/css/skins/red/red.css");
+    	$(".logo_img").attr("src", "https://imaxinfra.com/assets/css/skins/red/logo.png");
         return false;
    });
     
    $(".blue").click(function(){
-        $(".skin").attr("href", "css/skins/blue/blue.css");
-        $(".logo_img").attr("src", "css/skins/blue/logo.png");
+        $(".skin").attr("href", "https://imaxinfra.com/assets/css/skins/blue/blue.css");
+        $(".logo_img").attr("src", "https://imaxinfra.com/assets/css/skins/blue/logo.png");
         return false;
 	});
     
 	$(".yellow").click(function(){
-         $(".skin").attr("href", "css/skins/yellow/yellow.css");
-         $(".logo_img").attr("src", "css/skins/yellow/logo.png");
+         $(".skin").attr("href", "https://imaxinfra.com/assets/css/skins/yellow/yellow.css");
+         $(".logo_img").attr("src", "https://imaxinfra.com/assets/css/skins/yellow/logo.png");
          return false;
   });
 
 	$(".green").click(function(){
-        $(".skin").attr("href", "css/skins/green/green.css");
-        $(".logo_img").attr("src", "css/skins/green/logo.png");
+        $(".skin").attr("href", "https://imaxinfra.com/assets/css/skins/green/green.css");
+        $(".logo_img").attr("src", "https://imaxinfra.com/assets/css/skins/green/logo.png");
         return false;
   });
 
   $(".orange").click(function(){
-        $(".skin").attr("href", "css/skins/orange/orange.css");
-        $(".logo_img").attr("src", "css/skins/orange/logo.png");
+        $(".skin").attr("href", "https://imaxinfra.com/assets/css/skins/orange/orange.css");
+        $(".logo_img").attr("src", "https://imaxinfra.com/assets/css/skins/orange/logo.png");
         return false;
   });
 
   $(".purple").click(function(){
-       $(".skin").attr("href", "css/skins/purple/purple.css");
-       $(".logo_img").attr("src", "css/skins/purple/logo.png");
+       $(".skin").attr("href", "https://imaxinfra.com/assets/css/skins/purple/purple.css");
+       $(".logo_img").attr("src", "https://imaxinfra.com/assets/css/skins/purple/logo.png");
        return false;
   });
 
  $(".pink").click(function(){
-       $(".skin").attr("href", "css/skins/pink/pink.css");
-       $(".logo_img").attr("src", "css/skins/pink/logo.png");
+       $(".skin").attr("href", "https://imaxinfra.com/assets/css/skins/pink/pink.css");
+       $(".logo_img").attr("src", "https://imaxinfra.com/assets/css/skins/pink/logo.png");
         return false;
  });
 
 	$(".cocoa").click(function(){
-        $(".skin").attr("href", "css/skins/cocoa/cocoa.css");
-        $(".logo_img").attr("src", "css/skins/cocoa/logo.png");
+        $(".skin").attr("href", "https://imaxinfra.com/assets/css/skins/cocoa/cocoa.css");
+        $(".logo_img").attr("src", "https://imaxinfra.com/assets/css/skins/cocoa/logo.png");
         return false;
    });
  });

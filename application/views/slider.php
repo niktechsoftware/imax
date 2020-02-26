@@ -5,10 +5,10 @@
                              <div class="container"> 
                                 <div class="row">
                                     <div class="col-md-7 col-md-offset-5">
-                                        <h1 class="animated fadeInRight delay1">IMAX INFRA Pvt. Ltd
+                                        <h1 class="animated fadeInRight delay1">IMAX INFRA 
                                             <span class="arrow_title_slide"></span>
                                         </h1>   
-                                        <p class="animated fadeInRight delay2">IMAX refers to any facility we expect but do not think about � we take it for granted � because it works for us in the background..</p> 
+                                        <p class="animated fadeInRight delay2">सोचो एक नई दुनिया .. .. खुशियाँ हों जहाँ |</p> 
                                         <ul class="animated fadeInRight delay3">
                                             <li class="bathrooms"><span>3</span></li>
                                             <li class="bedrooms"><span>5</span></li>
@@ -30,10 +30,10 @@
                              <div class="container"> 
                                 <div class="row">
                                     <div class="col-md-7 col-md-offset-5">
-                                        <h1 class="animated fadeInRight delay1">IMAX INFRA Pvt. Ltd
+                                        <h1 class="animated fadeInRight delay1">IMAX INFRA 
                                             <span class="arrow_title_slide"></span>
                                         </h1>   
-                                        <p class="animated fadeInRight delay2">IMAX refers to any facility we expect but do not think about � we take it for granted � because it works for us in the background..</p> 
+                                        <p class="animated fadeInRight delay2">सोचो एक नई दुनिया .. .. खुशियाँ हों  जहाँ |</p> 
                                         <ul class="animated fadeInRight delay3">
                                             <li class="bathrooms"><span>3</span></li>
                                             <li class="bedrooms"><span>5</span></li>
@@ -58,7 +58,7 @@
                                         <h1 class="animated fadeInRight delay1">IMAX INFRA Pvt. Ltd
                                             <span class="arrow_title_slide"></span>
                                         </h1>   
-                                        <p class="animated fadeInRight delay2">IMAX refers to any facility we expect but do not think about � we take it for granted � because it works for us in the background..</p> 
+                                        <p class="animated fadeInRight delay2">सोचो एक नई दुनिया .. .. खुशियाँ हों जहाँ |</p> 
                                         <ul class="animated fadeInRight delay3">
                                             <li class="bathrooms"><span>3</span></li>
                                             <li class="bedrooms"><span>5</span></li>

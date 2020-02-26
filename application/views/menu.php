@@ -63,7 +63,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3 logo">
-                            <a href="index.html"><img src="<?php echo base_url();?>assets/images/logo.jpeg" alt="Image" class="logo_images"></a>
+                            <a href="index.html"><img src="<?php echo base_url();?>assets/images/logo.jpg" alt="Image" class="logo_images" height="60" width="32"></a>
                         </div>
                         <!-- Menu-->
                         <ul id="menu" class="col-md-9 sf-menu">
@@ -85,8 +85,8 @@
                              <li>
                                 <a href="#">PRODUCTS</a>
                                 <ul>
-                                 <li><a href="#">land Investment</a></li>                                 
-                                    <li><a href="#">Home Investment </a></li>
+                                 <li><a href="<?php echo base_url();?>index.php/welcome/land">land Investment</a></li>                                 
+                                    <li><a href="<?php echo base_url();?>index.php/welcome/home">Home Investment </a></li>
                                 </ul>
                                 </li>
                                 
@@ -109,17 +109,14 @@
                                 <ul>                                  
                                 <!--      <li><a href="properties.html">Properties</a></li>
                                     <li><a href="properties_two.html">Properties Two</a></li>
-                                    <li><a href="details_properties.html">Details Properties</a></li> 
+                                    <li><a href="details_properties.html">Details Properties</a></li>  -->
                                 </ul>
                             </li>  
                             <li>
-                                  <a href="#">BLOG</a>
-                                <ul>                                  
-                                   <li><a href="blog.html">Post</a></li>
-                                    <li><a href="single_post.html">Single Post</a></li>                                
-                                </ul>
+                                  <a href="<?php echo base_url();?>index.php/welcome/document">Documents</a>
+                                
                             </li>                                                                           
-                            <li><a href="contact.html">CONTACT</a></li> -->
+                            <li><a href="contact.html">CONTACT</a></li>
                         </ul>
                         <!-- End Menu-->
                     </div>

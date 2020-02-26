@@ -40,6 +40,14 @@ class Welcome extends CI_Controller {
 		$this->load->view('land');
 	}
 	
+		public function home()
+	{
+		$this->load->view('home');
+	}
+	public function document()
+	{
+	   	$this->load->view('document'); 
+	}
 	
 }
 
