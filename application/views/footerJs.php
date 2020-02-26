@@ -30,9 +30,7 @@
                                 <li class="location">
                                     <i class="fa fa-home"></i><a href="#"> 116/958,Roshan Nagar Rawatpur, Kanpur Dehat.</a>
                                 </li>  
-                                <li class="location">
-                                    <i class="fa fa-skype"></i><a href="#"> Iwthemes</a>
-                                </li>                                   
+                                                                 
                             </ul>               
                         </div>
                         <!-- End Contact Footer -->
@@ -41,8 +39,8 @@
                         <div class="col-md-3 links">
                             <h3>Useful links</h3>
                             <ul>
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Services</a></li>
+                                <li><a href="<?php echo base_url();?>index.php/welcome/about">About Us</a></li>
+                                <li><a href="#">products</a></li>
                                 <li><a href="#">Properties</a></li>
                                 <li><a href="#">Our Agents</a></li>
                             </ul>
@@ -50,20 +48,7 @@
                         <!-- End Recent Links -->
 
                         <!-- Tags -->
-                        <div class="col-md-3 padding_items">
-                            <h3>Tag Cloud</h3>
-                            <ul class="tags">
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Web Desing</a></li>
-                                <li><a href="#">News</a></li>
-                                <li><a href="#">Internet</a></li>
-                                <li><a href="#">Audio</a></li>
-                                <li><a href="#">Image</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Web Desing</a></li>
-                                <li><a href="#">News</a></li>
-                            </ul>
-                        </div>
+                       
                         <!-- End Tags -->
 
                         <!-- Testimonials -->

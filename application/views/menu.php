@@ -80,13 +80,13 @@
                           
                            <ul> 
                                   <!--   <li><a href="index.html">Home Version 1</a></li>                                 
-                                    <li><a href="index-list.html">Home Version 2</a></li>--> 
+                                    <li><a href="index-list.h">Home Version 2</a></li>--> 
                                     </ul>
                              <li>
                                 <a href="#">PRODUCTS</a>
                                 <ul>
                                  <li><a href="#">land Investment</a></li>                                 
-                                    <li><a href="index-list.html">Home Investment </a></li>
+                                    <li><a href="#">Home Investment </a></li>
                                 </ul>
                                 </li>
                                 
