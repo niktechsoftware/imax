@@ -85,7 +85,7 @@
                              <li>
                                 <a href="#">PRODUCTS</a>
                                 <ul>
-                                 <li><a href="<?php echo base_url();?>index.php/welcome/land">land Investment</a></li>                                 
+                                 <li><a href="#">land Investment</a></li>                                 
                                     <li><a href="index-list.html">Home Investment </a></li>
                                 </ul>
                                 </li>
