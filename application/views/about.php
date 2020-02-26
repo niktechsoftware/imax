@@ -3,8 +3,8 @@
 
 <div class="row">
 	<br />
-	<div class="col-sm-8 content" style="float: left; margin-top: 50px;">
-		<div class="col-sm-8" style="margin-left: 90px; color: blue;">
+	<div class="col-sm-8 content" style="float: left; margin-top: 80px;">
+		<div class="col-sm-8" style="margin-left: 90px; color: blue; background-color:white; border-radius: 25px;" >
 
 			<h4 style="color: red; font-size: 180%; margin-left: 10%;">I MAX
 				INFRA PROJECT PVT. LTD.</h4>
@@ -33,11 +33,11 @@
 			</p>
 		</div>
 	</div>
-	<div class="col-sm-4 content" style="float: right;">
+	<div class="col-sm-4 content" style="float: right; border-radius: 25px;">
 
 
 
-		<img src="<?php echo base_url();?>assets/images/owner (1).jpg">
+		<img src="<?php echo base_url();?>assets/images/owner (1).jpg" style=" border-radius: 25px;">
 
 
 

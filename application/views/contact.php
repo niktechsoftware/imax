@@ -2,8 +2,8 @@
 <div class="row">
 	<div class="col-sm-6 content" style="float: left;">
 
-		<div class="row" style="margin-left: 9%;">
-			</br> </br>
+		<div class="row" style="margin-left: 9%; background-color:white; border-radius: 25px; margin-top:8%;">
+			</br> 
 			<form action="#" class="appointment-form ftco-animate" method="post">
 				<div class="d-md-flex">
 					<div class="form-group">
@@ -25,7 +25,7 @@
 
 							</div>
 						</div>
-						<div class="form-group ml-md-2">
+						<div class="form-group ml-md-3">
 							<input type="text" class="form-control"
 								placeholder=" Enter Your Phone" name="phone">
 						</div>
@@ -37,8 +37,8 @@
 								placeholder="Say something me" name="message"></textarea>
 						</div>
 						<div class="form-group ml-md-3">
-							<input type="submit" class="btn btn-secondary py-2 px-3"
-								style="color: red;">
+							<input type="submit" class="btn btn-primary "
+								/>
 						</div>
 					</div>
 			

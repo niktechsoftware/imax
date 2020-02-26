@@ -1,3 +1,4 @@
+<?php
 <?php $this->load->view('headerCss');?>
 <center>
 <img src="<?php echo base_url();?>assets/images/coming_soon.png">

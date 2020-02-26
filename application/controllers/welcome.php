@@ -37,11 +37,16 @@ class Welcome extends CI_Controller {
 	}
 	public function land()
 	{
-		$this->load->view('land');
+		$this->load->view('land');}
+		
+	public function home()
+		{
+			$this->load->view('home');
+		}
 	}
 	
 	
-}
+
 
 /* End of file welcome.php */
 /* Location: ./application/controllers/welcome.php */
