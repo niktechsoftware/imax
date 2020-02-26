@@ -31,7 +31,6 @@
                 
                  <p>Choose a combination of predefined colors here. Here are some examples. You can create any additional number on your backend theme, also can choose the background you want and four differents layouts.</p>
               </div>
-                     
-             
+
         </div>
         <?php $this->load->view("menu");?>
