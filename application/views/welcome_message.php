@@ -1,7 +1,7 @@
 <?php $this->load->view("headerCss");?>
        
                 <!-- Filter Search-->
-           <?php   $this->load->view("slider_form"); ?>
+           <?php   //$this->load->view("slider_form"); ?>
                 <!-- Filter Search-->              
                 
                 <!-- Slide -->           
@@ -19,8 +19,8 @@
                             <div class="row">
                               <div class="col-md-8">
                                   <h3>
-                                      STAY INFORMED
-                                      <span>- Lorem ipsum dolor sit amet, consectetuer adipiscing elit Lorem ipsum.</span>
+                                      IMAX INFRA pvt.Ltd.
+                                      <span>- 116/958,Roshan Nagar Rawatpur,Kanpur 208019.</span>
                                   </h3>                    
                                 </div>
                                 <div class="col-md-4">

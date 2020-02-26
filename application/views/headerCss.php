@@ -28,7 +28,7 @@
         <div id="theme-options">
               <div class="openclose"></div>
               <div class="title">
-                 <span>THEME OPTIONS</span>
+                
                  <p>Choose a combination of predefined colors here. Here are some examples. You can create any additional number on your backend theme, also can choose the background you want and four differents layouts.</p>
               </div>
               <span>SKINS COLOR</span>

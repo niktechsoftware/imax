@@ -76,7 +76,7 @@
                                     <li><a href="index-map-two.html">Home Version 4</a></li> -->
                                 </ul>
                             </li>
-                            <li><a href="about.html">ABOUT</a>
+                            <li><a href="<?php echo base_url();?>index.php/welcome/about">ABOUT</a>
                           
                            <ul> 
                                   <!--   <li><a href="index.html">Home Version 1</a></li>                                 
@@ -85,8 +85,8 @@
                              <li>
                                 <a href="#">PRODUCTS</a>
                                 <ul>
-                                 <li><a href="index.html">land</a></li>                                 
-                                    <li><a href="index-list.html">Home </a></li>
+                                 <li><a href="index.html">land Investment</a></li>                                 
+                                    <li><a href="index-list.html">Home Investment </a></li>
                                 </ul>
                                 </li>
                                 
@@ -105,7 +105,7 @@
                                 </ul>
                             </li>  
                             <li>
-                                <a href="#">contact us</a>
+                                <a href="<?php echo base_url();?>index.php/welcome/contact">contact us</a>
                                 <ul>                                  
                                 <!--      <li><a href="properties.html">Properties</a></li>
                                     <li><a href="properties_two.html">Properties Two</a></li>
