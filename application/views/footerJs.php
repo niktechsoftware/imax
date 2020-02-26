@@ -39,7 +39,7 @@
                         <div class="col-md-3 links">
                             <h3>Useful links</h3>
                             <ul>
-                                <li><a href="<?php echo base_url();?>index.php/welcome/about">About Us</a></li>
+                                <li><a href="<?php echo base_url();?>welcome/about">About Us</a></li>
                                 <li><a href="#">products</a></li>
                                 <li><a href="#">Properties</a></li>
                                 <li><a href="#">Our Agents</a></li>

@@ -53,17 +53,17 @@
 /* ---------------------------------------------------------------------- */
 
 /* bootstrap.css  - include resetes ( Media querys, grid-responsive,layout).*/
-@import url("bootstrap/bootstrap.css");
-@import url("bootstrap/bootstrap-theme.css");
+@import url("css/bootstrap/bootstrap.css");
+@import url("css/bootstrap/bootstrap-theme.css");
 /*Style Switcher*/
-@import url("skins/theme-options.css");
+@import url("css/skins/theme-options.css");
 /*Style Responsive*/
-@import url("theme-responsive.css");
+@import url("css/theme-responsive.css");
 /*slide.css*/
-@import url("slide/camera.css");
+@import url("css/slide/camera.css");
 /* owlcarousel */
-@import url("owlcarousel/owl.carousel.css");
-@import url("owlcarousel/owl.theme.css");
+@import url("css/owlcarousel/owl.carousel.css");
+@import url("css/owlcarousel/owl.theme.css");
 /*Icons Font-Awesome*/
 @import url("icons/font-awesome.min.css");
 /*Animations*/
