@@ -51,6 +51,9 @@ class Welcome extends CI_Controller {
 	   	$this->load->view('document'); 
 	}
 	
+	public function gallery(){
+	    $this->load->view("gallery");
+	}
 }
 
 /* End of file welcome.php */

@@ -31,6 +31,7 @@
 				</div>				
 			</div>
 
+
             <div class="col-md-4 col-sm-6 col-12 wow fadeIn animated" data-wow-delay=".1s" data-wow-duration="1.5s">
 				<div class="team-member">
 					<div class="team-member-image">
@@ -43,6 +44,8 @@
 					</div>						
 				</div>				
 			</div>
+
+
 
             <div class="col-md-4 col-sm-6 col-12 wow fadeIn animated" data-wow-delay=".1s" data-wow-duration="1.5s">
 				<div class="team-member">

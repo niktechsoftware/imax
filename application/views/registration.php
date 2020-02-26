@@ -85,8 +85,8 @@
                                <div class="col-md-5"><span class="label label-default">Address
 												</span> </div>
 												<div class="col-md-7"><input type="text" class="form-control"
-																value="" name="name"
-																id="name" required="required">
+																value="" name="address"
+																id="address" required="required">
 															</div>	
 														
 									<?php //echo form_error('name');?>
@@ -95,8 +95,8 @@
 											</span> </div>
 												<div class="col-md-7">	
 												<input type="text" class="form-control"
-																value="" name="fname"
-																id="fname" required="required">
+																value="" name="city"
+																id="city" required="required">
 														</div>
 					                    <?php //echo form_error('fname');
 					                    ?> 
@@ -110,8 +110,8 @@
                                <div class="col-md-5"><span class="label label-default">State
 												</span> </div>
 												<div class="col-md-7"><input type="text" class="form-control"
-																value="" name="name"
-																id="name" required="required">
+																value="" name="state"
+																id="state" required="required">
 															</div>	
 														
 									<?php //echo form_error('name');?>
@@ -120,8 +120,8 @@
 											</span> </div>
 												<div class="col-md-7">	
 												<input type="text" class="form-control"
-																value="" name="fname"
-																id="fname" required="required">
+																value="" name="pinno"
+																id="pinno" required="required">
 														</div>
 					                    <?php //echo form_error('fname');
 					                    ?> 
@@ -135,8 +135,8 @@
                                <div class="col-md-5"><span class="label label-default">MObile Number
 												</span> </div>
 												<div class="col-md-7"><input type="text" class="form-control"
-																value="" name="name"
-																id="name" required="required">
+																value="" name="mobile"
+																id="mobile" required="required">
 															</div>	
 														
 									<?php //echo form_error('name');?>
@@ -145,8 +145,8 @@
 											</span> </div>
 												<div class="col-md-7">	
 												<input type="text" class="form-control"
-																value="" name="fname"
-																id="fname" required="required">
+																value="" name="dob"
+																id="dob" required="required">
 														</div>
 					                    <?php //echo form_error('fname');
 					                    ?> 
