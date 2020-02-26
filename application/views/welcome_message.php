@@ -21,7 +21,7 @@
                             <div class="row">
                               <div class="col-md-8">
                                   <h3>
-                                      IMAX INFRA pvt.Ltd.
+                                      IMAX INFRA
                                       <span>- 116/958,Roshan Nagar Rawatpur,Kanpur 208019.</span>
                                   </h3>                    
                                 </div>
@@ -192,7 +192,7 @@
                                 <div class="head_property">
                                   <a href="properties.html">
                                     <div class="title sale"></div>
-                                    <img src="<?php echo base_url();?>assets/images/vimg.jpg" alt="Image">
+                                    <img src="<?php echo base_url();?>assets/images/h1.jpg" alt="Image">
                                     <h5>Central Park Ny</h5>
                                   </a>
                                 </div>                        
@@ -328,7 +328,7 @@
                             <!-- End Item Service-->  
 
                            <!-- Item Service-->
-                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                           <!-- <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                                 <h3><a href="#">Guidance</a></h3>
                                 <div class="item_service">
                                     <div class="image_service">
@@ -343,7 +343,7 @@
                             <!-- End Item Service--> 
 
                             <!-- Item Service-->
-                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                            <!--<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                                 <h3><a href="#">List your property</a></h3>
                                 <div class="item_service">
                                     <div class="image_service">
@@ -354,7 +354,7 @@
                                     </div>
                                     <div class="clearfix"></div>
                                 </div>
-                            </div>
+                            </div>-->
                             <!-- End Item Service-->  
                         </div>
                         <!-- End Services-->

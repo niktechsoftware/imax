@@ -1,0 +1,8 @@
+[26-Feb-2020 07:35:28 Etc/GMT] PHP Fatal error:  Call to undefined function validation_errors() in /home/nikteund/public_html/imaxinfra.com/application/views/registration.php on line 56
+[26-Feb-2020 07:35:28 Etc/GMT] PHP Fatal error:  Call to undefined function validation_errors() in /home/nikteund/public_html/imaxinfra.com/application/views/registration.php on line 56
+[26-Feb-2020 08:08:38 Etc/GMT] PHP Fatal error:  Call to undefined function form_error() in /home/nikteund/public_html/imaxinfra.com/application/views/registration.php on line 47
+[26-Feb-2020 08:08:39 Etc/GMT] PHP Fatal error:  Call to undefined function form_error() in /home/nikteund/public_html/imaxinfra.com/application/views/registration.php on line 47
+[26-Feb-2020 08:09:19 Etc/GMT] PHP Fatal error:  Call to undefined function set_value() in /home/nikteund/public_html/imaxinfra.com/application/views/registration.php on line 61
+[26-Feb-2020 08:09:19 Etc/GMT] PHP Fatal error:  Call to undefined function set_value() in /home/nikteund/public_html/imaxinfra.com/application/views/registration.php on line 61
+[26-Feb-2020 08:09:47 Etc/GMT] PHP Fatal error:  Call to undefined function set_value() in /home/nikteund/public_html/imaxinfra.com/application/views/registration.php on line 61
+[26-Feb-2020 08:09:47 Etc/GMT] PHP Fatal error:  Call to undefined function set_value() in /home/nikteund/public_html/imaxinfra.com/application/views/registration.php on line 61

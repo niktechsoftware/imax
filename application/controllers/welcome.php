@@ -43,10 +43,15 @@ class Welcome extends CI_Controller {
 		{
 			$this->load->view('home');
 		}
+	
+	
+	
+	public function document()
+	{
+	   	$this->load->view('document'); 
 	}
 	
-	
-
+}
 
 /* End of file welcome.php */
 /* Location: ./application/controllers/welcome.php */

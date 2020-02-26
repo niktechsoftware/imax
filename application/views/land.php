@@ -1,3 +1,4 @@
+
 <?php $this->load->view('headerCss');?>
 <center>
 <img src="<?php echo base_url();?>assets/images/coming_soon.png">
@@ -99,4 +100,5 @@
                             </div>
                             <!-- End Item Property-->
                         </div>
+
 <?php $this->load->view('footerJs');?>

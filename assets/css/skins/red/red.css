@@ -36,7 +36,7 @@ html ul.tabs li.active, html ul.tabs li.active a:hover,
 }
 
 .accordion-trigger.active{	
-	background: #E1483F url("../../../img/toggle.png") no-repeat right -69px;
+	background: #E1483F url("https://imaxinfra.com/assets/img/toggle.png") no-repeat right -69px;
 }
 .sale{
 	background: url("for_sale.png") no-repeat;
@@ -75,10 +75,6 @@ footer .links li a:hover{
 
 /* Borders ----------------------------------------------------------*/
 
-.info_property,
-.newsletter_box,{	
-	border-top: 3px solid #E1483F;
-}
 .tooltip.top .tooltip-arrow {
   border-top-color: #E1483F;
 }

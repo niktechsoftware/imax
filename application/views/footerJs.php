@@ -1,6 +1,6 @@
 <footer class="section_area footer_top">
                 <div class="container center"> 
-                     <h1>IMAX INFRA PROJECT PVT. LTD.</h1>
+                     <h1>IMAX INFRA PROJECT </h1>
                     <p>I MAX Infra Pvt. Ltd. Today is one of The fastest emerging key players in INDIA real estate landscape:</p>
                     
                                    
@@ -28,7 +28,7 @@
                                     <i class="fa fa-headphones"></i><a href="#">9838620786</a>
                                  </li>
                                 <li class="location">
-                                    <i class="fa fa-home"></i><a href="#"> 116/958,Roshan Nagar Rawatpur, Kanpur Dehat.</a>
+                                    <i class="fa fa-home"></i><a href="#"> 116/958,Roshan Nagar Rawatpur, Kanpur Nagar.</a>
                                 </li>  
                                                                  
                             </ul>               
@@ -86,7 +86,10 @@
                             </ul>
                         </div>
                         <!-- End Testimonials -->
-                    </div>
+                    </div> <h4 style="color:red;">Totral visitors</h4>
+                    <!-- Start of WebFreeCounter Code -->
+<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gekdqpd&nd=6&style=80" border="0" alt="free counter"></a>
+<!-- End of WebFreeCounter Code -->
                 </div>
             </footer>
             <!-- End Footer area - footer_medium -->
@@ -96,6 +99,7 @@
                 <div class="container">
                     <div class="row">
                        <div class="col-md-6">
+                          
                             <p>&copy; 2020 Design by NIKTECH SOFTWARE SOLUTHIONS.</p>             
                         </div>
                         <div class="col-md-6">
