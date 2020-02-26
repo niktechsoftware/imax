@@ -1,15 +1,4 @@
-<footer class="section_area footer_top">
-                <div class="container center"> 
-                     <h1>IMAX INFRA PROJECT </h1>
-                    <p>I MAX Infra Pvt. Ltd. Today is one of The fastest emerging key players in INDIA real estate landscape:</p>
-                    
-                                   
-                    <br><br>
-                    
-                    
-                     
-                </div>
-            </footer>
+
             <!-- End Footer area - footer_top -->
 
             <!-- Footer area - footer_medium -->

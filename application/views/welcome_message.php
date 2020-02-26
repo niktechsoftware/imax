@@ -92,7 +92,7 @@
                                 <div class="head_property">
                                     <a href="properties.html">
                                       <div class="title rent"></div>
-                                      <img src="<?php echo base_url();?>assets/images/property 2.jpg" alt="Image">
+                                      <img src="<?php echo base_url();?>assets/img/property/1.jpg" alt="Image">
                                       <h5>Central Park Ny</h5>
                                     </a>
                                 </div>                        
@@ -112,7 +112,7 @@
                                 <div class="head_property">
                                   <a href="properties.html">
                                     <div class="title sale"></div>
-                                    <img src="<?php echo base_url();?>assets/images/propert4.jpeg" alt="Image">
+                                    <img src="<?php echo base_url();?>assets/img/property/2.jpg" alt="Image">
                                     <h5>Central Park Ny</h5>
                                   </a>
                                 </div>                        

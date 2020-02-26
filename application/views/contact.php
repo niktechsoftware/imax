@@ -35,8 +35,14 @@
 	<div class="col-sm-4 content" style="float: left;margin-left:10px;background-color:white;border-radius:10%;width:600px; margin-top:30px;">
 
 
-		<div class="row" style="margin-left: ; style="border-radius:30%; background-color:white;width:400px;margin-left:10px;">
+		<div class="row"  style="border-radius:30%; background-color:white;width:400px;margin-left:10px;">
 			<br/>
+			
+			<div class = "alert alert-info">
+			    Address: Rosan Nagar, Rawapur,
+			Kanpur Nagar. <br>Pincode :208019 <br>
+			Contact Number : 9838620786, 9208643071
+			</div>
 			<form action="#" class="appointment-form ftco-animate" method="post">
 				<div class="d-md-flex">
 					<div class="form-group">
@@ -70,8 +76,7 @@
 								placeholder="Say something me" name="message"></textarea>
 						</div>
 						<div class="form-group ml-md-3">
-							<input type="submit" class="btn btn-secondary py-2 px-3"
-								style="color: red;">
+							<input type="submit" class="btn btn-success">
 						</div>
 					</div>
 			
@@ -85,7 +90,7 @@
 <br/>
 	<iframe
 		src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14285.043380453084!2d80.280234!3d26.479545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5b8ac1221b58e3c!2sKhan%20fancy%20Handloom!5e0!3m2!1sen!2sin!4v1582699062721!5m2!1sen!2sin"
-		width="400" height="400" frameborder="0" style="border: 0;"
+		width="600" height="400" frameborder="0" style="border: 0;"
 		allowfullscreen="" > </iframe>
 
 
