@@ -1,13 +1,15 @@
 <?php $this->load->view("headerCss");?>
        
                 <!-- Filter Search-->
-           <?php   $this->load->view("slider_form"); ?>
+
+           <?php   //$this->load->view("slider_form"); ?>
+
                 <!-- Filter Search-->              
                 
                 <!-- Slide -->           
                <?php $this->load->view("slider");?> 
                 <!-- End Slide -->   
-            </header>
+           
             <!-- End Header-->
 
             <!-- content info -->
@@ -19,8 +21,8 @@
                             <div class="row">
                               <div class="col-md-8">
                                   <h3>
-                                      STAY INFORMED
-                                      <span>- Lorem ipsum dolor sit amet, consectetuer adipiscing elit Lorem ipsum.</span>
+                                      IMAX INFRA pvt.Ltd.
+                                      <span>- 116/958,Roshan Nagar Rawatpur,Kanpur 208019.</span>
                                   </h3>                    
                                 </div>
                                 <div class="col-md-4">
@@ -90,14 +92,14 @@
                                 <div class="head_property">
                                     <a href="properties.html">
                                       <div class="title rent"></div>
-                                      <img src="<?php echo base_url();?>assets/img/property/1.jpg" alt="Image">
+                                      <img src="<?php echo base_url();?>assets/images/property 2.jpg" alt="Image">
                                       <h5>Central Park Ny</h5>
                                     </a>
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>Kanpur</span></li>
+                                        <li><strong>Price</strong><span>1700rs</span></li>
                                     </ul>                                 
                                 </div>
                             </div>
@@ -110,14 +112,14 @@
                                 <div class="head_property">
                                   <a href="properties.html">
                                     <div class="title sale"></div>
-                                    <img src="<?php echo base_url();?>assets/img/property/2.jpg" alt="Image">
+                                    <img src="<?php echo base_url();?>assets/images/propert4.jpeg" alt="Image">
                                     <h5>Central Park Ny</h5>
                                   </a>
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>Kanpur</span></li>
+                                        <li><strong>Price</strong><span>1700rs</span></li>
                                     </ul>                                 
                                 </div>
                               </div>
@@ -130,14 +132,14 @@
                                 <div class="head_property">
                                   <a href="properties.html">
                                     <div class="title sale"></div>
-                                    <img src="<?php echo base_url();?>assets/img/property/3.jpg" alt="Image">
+                                    <img src="<?php echo base_url();?>assets/images/images (1).jpg" alt="Image">
                                     <h5>Central Park Ny</h5>
                                   </a>
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>Kanpur</span></li>
+                                        <li><strong>Price</strong><span>1700rs</span></li>
                                     </ul>                                 
                                 </div>
                               </div>
@@ -150,14 +152,14 @@
                                 <div class="head_property">
                                   <a href="properties.html">
                                     <div class="title rent"></div>
-                                    <img src="<?php echo base_url();?>assets/img/property/4.jpg" alt="Image">
+                                    <img src="<?php echo base_url();?>assets/images/property3.jpeg" alt="Image">
                                     <h5>Central Park Ny</h5>
                                   </a>
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>Kanpur </span></li>
+                                        <li><strong>Price</strong><span>1700rs</span></li>
                                     </ul>                                 
                                 </div>
                               </div>
@@ -170,14 +172,14 @@
                                 <div class="head_property">
                                   <a href="properties.html">
                                     <div class="title rent"></div>
-                                    <img src="<?php echo base_url();?>assets/img/property/5.jpg" alt="Image">
+                                    <img src="<?php echo base_url();?>assets/images/vimg2.jpg" alt="Image">
                                     <h5>Central Park Ny</h5>
                                   </a>
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
+                                        <li><strong>Price</strong><span>1000rs</span></li>
                                     </ul>                                 
                                 </div>
                               </div>
@@ -190,14 +192,14 @@
                                 <div class="head_property">
                                   <a href="properties.html">
                                     <div class="title sale"></div>
-                                    <img src="<?php echo base_url();?>assets/img/property/6.jpg" alt="Image">
+                                    <img src="<?php echo base_url();?>assets/images/vimg.jpg" alt="Image">
                                     <h5>Central Park Ny</h5>
                                   </a>
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>kanpur dehat</span></li>
+                                        <li><strong>Price</strong><span>1000rs.</span></li>
                                     </ul>                                 
                                 </div>
                               </div>
@@ -216,8 +218,8 @@
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
+                                        <li><strong>Price</strong><span>1000rs</span></li>
                                     </ul>                                 
                                 </div>
                               </div>
@@ -236,8 +238,8 @@
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>kanpur dehat</span></li>
+                                        <li><strong>Price</strong><span>1000rs</span></li>
                                     </ul>                                 
                                 </div>
                               </div>
@@ -258,7 +260,7 @@
                             <!-- End Divisor-->
 
                             <div class="titles">
-                                <h1>THEME FEATURES</h1>
+                                <h1>BUSINESS ACTIVITY</h1>
                             </div>
                         </div>
                         <!-- End Title-->
@@ -267,13 +269,13 @@
                         <div class="services padding_top_mini">
                             <!-- Item Service-->
                             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                                <h3><a href="#">Metrics results</a></h3>
+                                <h3><a href="#">Real state developments</a></h3>
                                 <div class="item_service">
                                     <div class="image_service">
                                         <i class="fa fa-coffee"></i>
                                     </div>
                                     <div class="info_service">
-                                        <p>Pellentesque habitant morbi tristi senectus et netus et.</p>
+                                        <p>we provide real state development.</p>
                                     </div>
                                     <div class="clearfix"></div>
                                 </div>
@@ -282,13 +284,13 @@
 
                            <!-- Item Service-->
                             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                                <h3><a href="#">Featured projects</a></h3>
+                                <h3><a href="#">Architectural Work</a></h3>
                                 <div class="item_service">
                                     <div class="image_service">
                                         <i class="fa fa-desktop"></i>
                                     </div>
                                     <div class="info_service">
-                                        <p>Pellentesque habitant morbi tristi senectus et netus et .</p>
+                                        <p>We provide architectural work .</p>
                                     </div>
                                     <div class="clearfix"></div>
                                 </div>
@@ -297,13 +299,13 @@
 
                             <!-- Item Service-->
                             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                                <h3><a href="#">Find your Place</a></h3>
+                                <h3><a href="#">Civil construction</a></h3>
                                 <div class="item_service">
                                     <div class="image_service">
                                         <i class="fa fa-suitcase"></i>
                                     </div>
                                     <div class="info_service">
-                                        <p>Pellentesque habitant morbi tristi senectus et netus et .</p>
+                                        <p>We provide Civil construction .</p>
                                     </div>
                                     <div class="clearfix"></div>
                                 </div>
@@ -312,13 +314,13 @@
                        
                             <!-- Item Service-->
                             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                                <h3><a href="#">Advertise rentals</a></h3>
+                                <h3><a href="#">Building construction material</a></h3>
                                 <div class="item_service">
                                     <div class="image_service">
                                         <i class="fa fa-tasks"></i>
                                     </div>
                                     <div class="info_service">
-                                        <p>Pellentesque habitant morbi tristi senectus et netus et .</p>
+                                        <p> We provide Building construction material .</p>
                                     </div>
                                     <div class="clearfix"></div>
                                 </div>
@@ -391,8 +393,8 @@
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
+                                        <li><strong>Price</strong><span>1000rs</span></li>
                                     </ul>                                 
                                 </div>
                             </div>
@@ -409,8 +411,8 @@
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
+                                        <li><strong>Price</strong><span>1000rs</span></li>
                                     </ul>                                 
                                 </div>
                             </div>
@@ -427,8 +429,8 @@
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
+                                        <li><strong>Price</strong><span>1000</span></li>
                                     </ul>                                 
                                 </div>
                             </div>
@@ -445,8 +447,8 @@
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
+                                        <li><strong>Price</strong><span>1000rs</span></li>
                                     </ul>                                 
                                 </div>
                             </div>
@@ -463,8 +465,8 @@
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>kanpur dehat</span></li>
+                                        <li><strong>Price</strong><span>1000rs</span></li>
                                     </ul>                                 
                                 </div>
                             </div>
@@ -481,8 +483,8 @@
                                 </div>                        
                                 <div class="info_property">                                  
                                     <ul>
-                                        <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                                        <li><strong>Price</strong><span>$1.700</span></li>
+                                        <li><strong>Place </strong><span>kanpur dehat</span></li>
+                                        <li><strong>Price</strong><span>1000rs</span></li>
                                     </ul>                                 
                                 </div>
                             </div>

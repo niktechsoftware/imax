@@ -33,14 +33,14 @@
                     <div class="row">
                         <div class="col-md-12">
                             <ul>  
-                                <li><i class="fa fa-headphones"></i><a href="#">01800034567</a></li>
-                                <li><i class="fa fa-comment"></i><a href="#">Live chat</a></li>
+                                <li><i class="fa fa-headphones"></i><a href="#">9838620786</a></li>
+                                <li><i class="fa fa-headphones"></i><a href="#">9208643071</a></li>
                                 <li>
                                     <ul>
                                       <li class="dropdown">
                                         <i class="fa fa-globe"></i> 
-                                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-                                            Language<i class="fa fa-angle-down"></i>
+                                       Live chat <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                            <i class="fa fa-angle-down"></i>
                                         </a>
                                          <ul class="dropdown-menu">  
                                              <li><a href="#"><img src="<?php echo base_url();?>assets/img/language/spanish.png" alt="">Spanish</a></li>
@@ -63,26 +63,37 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3 logo">
-                            <a href="index.html"><img src="<?php echo base_url();?>assets/img/logo.png" alt="Image" class="logo_img"></a>
+                            <a href="index.html"><img src="<?php echo base_url();?>assets/images/logo.jpeg" alt="Image" class="logo_images"></a>
                         </div>
                         <!-- Menu-->
                         <ul id="menu" class="col-md-9 sf-menu">
                             <li>
-                                <a href="index.html">HOME</a>
+                                <a href="<?php echo base_url();?>index.php">HOME</a>
                                 <ul> 
-                                    <li><a href="index.html">Home Version 1</a></li>                                 
+                                   <!--  <li><a href="index.html">Home Version 1</a></li>                                 
                                     <li><a href="index-list.html">Home Version 2</a></li>
                                     <li><a href="index-map-one.html">Home Version 3</a></li>
-                                    <li><a href="index-map-two.html">Home Version 4</a></li>
+                                    <li><a href="index-map-two.html">Home Version 4</a></li> -->
                                 </ul>
                             </li>
-                            <li><a href="about.html">ABOUT</a></li>
+                            <li><a href="<?php echo base_url();?>index.php/welcome/about">ABOUT</a>
+                          
+                           <ul> 
+                                  <!--   <li><a href="index.html">Home Version 1</a></li>                                 
+                                    <li><a href="index-list.h">Home Version 2</a></li>--> 
+                                    </ul>
                              <li>
-                                <a href="#">FEATURES</a>
-                                <ul> 
-                                    <li><a href="#">Pages</a>
+                                <a href="#">PRODUCTS</a>
+                                <ul>
+                                 <li><a href="#">land Investment</a></li>                                 
+                                    <li><a href="#">Home Investment </a></li>
+                                </ul>
+                                </li>
+                                
+                               
+                                   <li><a href="<?php echo base_url();?>index.php/welcome/registration">Registration</a>
                                         <ul>                                  
-                                          <li><a href="step_1.html">Register Agent</a></li>
+                                         <!--  <li><a href="step_1.html">Register Agent</a></li>
                                           <li><a href="step_2.html">Register Property</a></li>
                                       </ul>
                                     </li>                                 
@@ -90,25 +101,25 @@
                                     <li><a href="grid.html">Grind System</a></li>
                                     <li><a href="typograpy.html">Tipograpy</a></li>
                                     <li><a href="icons.html">Icons</a></li>
-                                    <li><a href="elements.html">Elements</a></li>
+                                    <li><a href="elements.html">Elements</a></li> -->
                                 </ul>
                             </li>  
                             <li>
-                                <a href="#">PROPERTIES</a>
+                                <a href="<?php echo base_url();?>index.php/welcome/contact">contact us</a>
                                 <ul>                                  
-                                    <li><a href="properties.html">Properties</a></li>
+                                <!--      <li><a href="properties.html">Properties</a></li>
                                     <li><a href="properties_two.html">Properties Two</a></li>
-                                    <li><a href="details_properties.html">Details Properties</a></li>
+                                    <li><a href="details_properties.html">Details Properties</a></li> 
                                 </ul>
                             </li>  
                             <li>
-                                <a href="#">BLOG</a>
+                                  <a href="#">BLOG</a>
                                 <ul>                                  
-                                    <li><a href="blog.html">Post</a></li>
+                                   <li><a href="blog.html">Post</a></li>
                                     <li><a href="single_post.html">Single Post</a></li>                                
                                 </ul>
                             </li>                                                                           
-                            <li><a href="contact.html">CONTACT</a></li>
+                            <li><a href="contact.html">CONTACT</a></li> -->
                         </ul>
                         <!-- End Menu-->
                     </div>
