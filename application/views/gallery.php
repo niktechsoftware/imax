@@ -9,9 +9,63 @@
                         </div>     
                     </div>
                 </div>            
-            </div>  <center>
-    <img src="<?php echo base_url();?>assets/images/coming_soon.png">
-    </center>
+            </div>  
+    <section class="content_info">
+
+    
+                    <!-- End Bar Filter properties-->
+
+                    <!-- Row Properties-->
+                    <div class="row">
+                        <!-- Item Property-->
+                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="item_property">
+                                <div class="head_property">
+                                    <div class="image_post"style="margin-left:40%;"> 
+                                      <div class="title rent" ></div>
+                                      <img src="<?php echo base_url();?>assets/images/5.jpg"height="300" alt="Image">
+                                      
+                                   </div>
+                                </div>                        
+                               
+                            </div>
+                        </div>
+                     
+                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="item_property">
+                                <div class="head_property">
+                                 
+                                    <div class="image_post"style="margin-left:40%;"> 
+                                     <img src="<?php echo base_url();?>assets/images/g3.jpeg"height="300" width="500" alt="Image">
+                                    </div>
+                                  
+                                </div>                        
+                               
+                              </div>
+                        </div>
+                        
+                        
+                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="item_property">
+                                <div class="head_property">
+                                 
+                                    <div class="image_post" style="margin-left:30%;"> 
+                                     <img src="<?php echo base_url();?>assets/images/g2.jpeg" height="300" alt="Image">
+                                    </div>
+                                  
+                                </div>                        
+                               
+                              </div>
+                              
+                       
+                              
+                        </div>
+                        
+                        </div>
+                        
+ </div>
+ </section>
+   
     <div id="properties-carousel" class="properties-carousel">
 
 
