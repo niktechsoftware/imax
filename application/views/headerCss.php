@@ -20,7 +20,7 @@
         <link rel="apple-touch-icon" href="<?php echo base_url();?>assets/img/icons/apple-touch-icon.html">
         <link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url();?>assets/img/icons/apple-touch-icon-72x72.html">
         <link rel="apple-touch-icon" sizes="114x114" href="<?php echo base_url();?>assets/img/icons/apple-touch-icon-114x114.html">  
-
+ <script src="<?php echo base_url();?>assets/js/jquery.min.js"></script>    
         <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     </head>
     <body>
