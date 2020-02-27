@@ -1,14 +1,14 @@
  <div class="camera_wrap camera_white_skin" id="slide">
                     <!-- Item Slide -->  
-                    <div  data-src="<?php echo base_url();?>assets/images/2.jpeg">
+                    <div  data-src="<?php echo base_url();?>assets/img/slide/slides/1.jpg">
                         <div class="camera_caption fadeFromTop">
                              <div class="container"> 
                                 <div class="row">
-                                    <div class="col-md-7 col-md-offset-5">
+                                    <div class="col-md-7 col-md-offset-5" >
                                         <h1 class="animated fadeInRight delay1">IMAX INFRA 
                                             <span class="arrow_title_slide"></span>
                                         </h1>   
-                                        <p class="animated fadeInRight delay2">सोचो एक नई दुनिया .. .. खुशियाँ हों जहाँ |</p> 
+                                <h1  class="animated fadeInRight delay2" style="background-color:#00ff80;">सोचो एक नई दुनिया .. .. खुशियाँ हों जहाँ |</h1> 
                                         <ul class="animated fadeInRight delay3">
                                             <li class="bathrooms"><span>3</span></li>
                                             <li class="bedrooms"><span>5</span></li>
@@ -25,15 +25,17 @@
                     <!-- End Item Slide -->  
 
                     <!-- Item Slide --> 
-                    <div data-src="<?php echo base_url();?>assets/images/45.jpg">
+                    <div data-src="<?php echo base_url();?>assets/images/2.jpeg">
                         <div class="camera_caption fadeFromTop">
                              <div class="container"> 
                                 <div class="row">
                                     <div class="col-md-7 col-md-offset-5">
                                         <h1 class="animated fadeInRight delay1">IMAX INFRA 
-                                            <span class="arrow_title_slide"></span>
+                                            <div class="col-sm-4">
+                                            <span class="arrow_title_slide" style="height:50%;"></span>
                                         </h1>   
-                                        <p class="animated fadeInRight delay2">सोचो एक नई दुनिया .. .. खुशियाँ हों  जहाँ |</p> 
+                                        <h1  class="animated fadeInRight delay2" >सोचो एक नई दुनिया .. .. खुशियाँ हों जहाँ |</h1>
+                                        
                                         <ul class="animated fadeInRight delay3">
                                             <li class="bathrooms"><span>3</span></li>
                                             <li class="bedrooms"><span>5</span></li>
@@ -50,15 +52,15 @@
                    <!-- End Item Slide -->  
 
                    <!-- Item Slide --> 
-                    <div data-src="<?php echo base_url();?>assets/images/1.png">
+                    <div data-src="<?php echo base_url();?>assets/images/money.jpg">
                         <div class="camera_caption fadeFromTop">
                              <div class="container"> 
                                 <div class="row">
                                     <div class="col-md-7 col-md-offset-5">
-                                        <h1 class="animated fadeInRight delay1">IMAX INFRA Pvt. Ltd
+                                        <h1 class="animated fadeInRight delay1">IMAX INFRA 
                                             <span class="arrow_title_slide"></span>
                                         </h1>   
-                                        <p class="animated fadeInRight delay2">सोचो एक नई दुनिया .. .. खुशियाँ हों जहाँ |</p> 
+                                      <h1  class="animated fadeInRight delay2" > सोचो एक नई दुनिया .. .. खुशियाँ हों जहाँ |</h1> 
                                         <ul class="animated fadeInRight delay3">
                                             <li class="bathrooms"><span>3</span></li>
                                             <li class="bedrooms"><span>5</span></li>
