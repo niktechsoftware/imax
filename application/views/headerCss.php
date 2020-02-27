@@ -2,7 +2,7 @@
 <html lang="en">
  <head>
         <meta charset="utf-8">
-        <title>IMax</title>  
+        <title>IMax Infra</title>  
         <meta name="keywords" content="HTML5 Template" />
         <meta name="description" content="Full State  - Real State Template">
         <meta name="author" content="iwthemes.com">   

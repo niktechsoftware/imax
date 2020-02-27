@@ -1,3 +1,9 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 encoding//application/views/contact.php=UTF-8
 encoding//application/views/registration.php=UTF-8
+=======
+encoding//application/views/about.php=UTF-8
+encoding//application/views/contact.php=UTF-8
+encoding//application/views/slider.php=UTF-8
+>>>>>>> 0b3390a246fde0fcc345068373f12ad08cef5151

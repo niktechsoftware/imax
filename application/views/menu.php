@@ -42,12 +42,7 @@
                                        Live chat <a class="dropdown-toggle" data-toggle="dropdown" href="#">
                                             <i class="fa fa-angle-down"></i>
                                         </a>
-                                         <ul class="dropdown-menu">  
-                                             <li><a href="#"><img src="<?php echo base_url();?>assets/img/language/spanish.png" alt="">Spanish</a></li>
-                                             <li><a href="#"><img src="<?php echo base_url();?>assets/img/language/english.png" alt="">English</a></li>
-                                             <li><a href="#"><img src="<?php echo base_url();?>assets/img/language/frances.png" alt="">Frances</a></li>
-                                             <li><a href="#"><img src="<?php echo base_url();?>assets/img/language/portugues.png" alt="">Portuguese</a></li>
-                                        </ul>
+                                     
                                       </li>                      
                                     </ul>
                                 </li>
@@ -68,7 +63,7 @@
                         <!-- Menu-->
                         <ul id="menu" class="col-md-9 sf-menu">
                             <li>
-                                <a href="<?php echo base_url();?>index.php">HOME</a>
+                                <a href="<?php echo base_url();?>index.php">Home</a>
                                 <ul> 
                                    <!--  <li><a href="index.html">Home Version 1</a></li>                                 
                                     <li><a href="index-list.html">Home Version 2</a></li>
@@ -76,14 +71,14 @@
                                     <li><a href="index-map-two.html">Home Version 4</a></li> -->
                                 </ul>
                             </li>
-                            <li><a href="<?php echo base_url();?>index.php/welcome/about">ABOUT</a>
+                            <li><a href="<?php echo base_url();?>index.php/welcome/about">About us</a>
                           
                            <ul> 
                                   <!--   <li><a href="index.html">Home Version 1</a></li>                                 
                                     <li><a href="index-list.h">Home Version 2</a></li>--> 
                                     </ul>
                              <li>
-                                <a href="#">PRODUCTS</a>
+                                <a href="#">Products</a>
                                 <ul>
                                  <li><a href="<?php echo base_url();?>index.php/welcome/land">land Investment</a></li>                                 
                                     <li><a href="<?php echo base_url();?>index.php/welcome/home">Home Investment </a></li>
@@ -105,18 +100,14 @@
                                 </ul>
                             </li>  
                             <li>
-                                <a href="<?php echo base_url();?>index.php/welcome/contact">contact us</a>
-                                <ul>                                  
-                                <!--      <li><a href="properties.html">Properties</a></li>
-                                    <li><a href="properties_two.html">Properties Two</a></li>
-                                    <li><a href="details_properties.html">Details Properties</a></li>  -->
-                                </ul>
+                                  <a href="<?php echo base_url();?>index.php/welcome/gallery">Gallery</a>
+                                
                             </li>  
                             <li>
                                   <a href="<?php echo base_url();?>index.php/welcome/document">Documents</a>
                                 
                             </li>                                                                           
-                            <li><a href="contact.html">CONTACT</a></li>
+                            <li><a href="<?php echo base_url();?>index.php/welcome/contact">contact us</a></li>
                         </ul>
                         <!-- End Menu-->
                     </div>

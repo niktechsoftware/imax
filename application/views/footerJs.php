@@ -1,15 +1,4 @@
-<footer class="section_area footer_top">
-                <div class="container center"> 
-                     <h1>IMAX INFRA PROJECT </h1>
-                    <p>I MAX Infra Pvt. Ltd. Today is one of The fastest emerging key players in INDIA real estate landscape:</p>
-                    
-                                   
-                    <br><br>
-                    
-                    
-                     
-                </div>
-            </footer>
+
             <!-- End Footer area - footer_top -->
 
             <!-- Footer area - footer_medium -->
@@ -100,7 +89,7 @@
                     <div class="row">
                        <div class="col-md-6">
                           
-                            <p>&copy; 2020 Design by NIKTECH SOFTWARE SOLUTHIONS.</p>             
+                            <p>&copy; 2020 Design by NIKTECH SOFTWARE SOLUTIONS.</p>             
                         </div>
                         <div class="col-md-6">
                             <ul class="social tooltip-demo">

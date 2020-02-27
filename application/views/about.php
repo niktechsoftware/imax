@@ -4,7 +4,7 @@
                     <div class="row"> 
                         <div class="col-md-8">
                             <h1>Imax Infra
-                                <span><a href="<?php echo base_url();?>welcome/">Home </a> / Registration</span>
+                                <span><a href="<?php echo base_url();?>welcome/">Home </a> / About Us</span>
                             </h1>
                         </div>     
                     </div>
@@ -19,7 +19,7 @@
                               <div class="col-md-8">
                                   <h3>
                                      Imax Infra 
-                                      <span>-सोचो एक नई दुनिया .. .. खुशियाँ हों जहाँ |</span>
+                                      <span>सोचो एक नई दुनिया .. .. खुशियाँ हों जहाँ |</span>
                                   </h3>                    
                                 </div>
                                 <div class="col-md-4">
@@ -35,41 +35,47 @@
 
 <div class="row">
 	<br />
+
+	
 	<div class="col-sm-12 content" style="float: left; margin-top: 50px;">
 		<div class="col-sm-7" style="margin-left: 90px; color: black; background-color:white; border-radius: 25px;">
+
 
 			<h4 style="color: red; font-size: 120%; margin-left: 10%;">I MAX
 				INFRA PROJECT</h4>
 			<br />
-			<p style="font-size: 80%;">
-				<b><i> I MAX infra project  today is one of the fastest
+			 <p class="text-info" >
+				<blockquote>  <p class="text-info" align=”justify”>I MAX infra project today is one of the fastest
 						emerging key players in the Indian real estate landscape. 
-					<br />Know for its innovative approach to offer state-of-the Art
+					</p><p class="text-info" align=”justify”>Know for its innovative approach to offer state-of-the Art
 						GREEN STRUCTURE ,Along with sustainable models, I MAX infra
-						project.
-					<br /> Is commited to mark its excellence in green construction in
-						skyline in India.<br />
-				
-						<p style="font-size: 80%;">
-							<b><i>Setting benchmarks by initialing the concept of green
+						project.</p> <p class="text-info" align=”justify”>
+					 Is commited to mark its excellence in green construction in
+						skyline in India.
+				</p>
+				<p class="text-info" align=”justify”>
+					
+							Setting benchmarks by initialing the concept of green
 									building technology in NORTH INDIA.
-								<br />I MAX infra project offers the most innovative and
-									diversified product mix comprising resident,Commercial/IT
-									park,Retails,Hotels,Farms House and SEZ. 
+								I MAX infra project offers the most innovative and
+									diversified product mix comprising resident, Commercial/IT
+									park, Retails, Hotels,Farms House and SEZ. 
 						
-						</p>
+					
 
+</p>
 
-
-				</i></b>
-			</p>
+			</blockquote>
+		</p>
 		</div>
+
 	
 	<div class="col-sm-4 content" style="float: right; ">
 
 
-
+<br><br>
 		<img src="<?php echo base_url();?>assets/images/owner (1).jpg" style="border-radius: 30px;" height="300" width="250">
+
 
 
 
@@ -77,7 +83,7 @@
 </div>
 <br>
 
-
+</div>
 </div>
 <br><br>
 

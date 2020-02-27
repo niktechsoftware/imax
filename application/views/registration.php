@@ -101,12 +101,18 @@
                                     
                               
 												<div class="col-md-7"><input type="text" class="form-control"
+<<<<<<< HEAD
 																value="<?php echo set_value('address'); ?>" name="address"
 																id="address" placeholder="Enter Address">
+=======
+																value="" name="address"
+																id="address" required="required">
+>>>>>>> 0b3390a246fde0fcc345068373f12ad08cef5151
 															</div>	
 														
 									<?php echo form_error('address');?>
 									</div>
+<<<<<<< HEAD
 									<div class="col-md-6">
                                     
                                
@@ -121,6 +127,29 @@
 													<option value="<?php echo $row->state;?>"><?php echo $row->state;?></option>
                                            <?php endforeach;?>
 													</select>
+=======
+                                <div class="col-md-6">  <div class="col-md-5"><span class="label label-default">City
+											</span> </div>
+												<div class="col-md-7">	
+												<input type="text" class="form-control"
+																value="" name="city"
+																id="city" required="required">
+														</div>
+					                    <?php //echo form_error('fname');
+					                    ?> 
+												</div>
+                            </div>
+                              <br>    
+                          <br>
+                            <div class="col-md-12">
+                                <div class="col-md-6">
+                                    
+                               <div class="col-md-5"><span class="label label-default">State
+												</span> </div>
+												<div class="col-md-7"><input type="text" class="form-control"
+																value="" name="state"
+																id="state" required="required">
+>>>>>>> 0b3390a246fde0fcc345068373f12ad08cef5151
 															</div>	
 														
 									<?php echo form_error('state');?>
@@ -146,6 +175,7 @@
                             <div class="col-md-12">
                                  <div class="col-md-6">  
 												<div class="col-md-7">	
+<<<<<<< HEAD
 												<select class="form-control show-tick" id="city" name="city" required="required" value="<?php echo set_value('state');?>">
 												<option value="Bihar">--Select City--</option>
 												 
@@ -179,6 +209,11 @@
 													 <option value="Bihar">--Select Area--</option>
 													
 													</select>
+=======
+												<input type="text" class="form-control"
+																value="" name="pinno"
+																id="pinno" required="required">
+>>>>>>> 0b3390a246fde0fcc345068373f12ad08cef5151
 														</div>
 					                    <?php echo form_error('area');
 					                    ?> 
@@ -191,12 +226,18 @@
                                     
                                
 												<div class="col-md-7"><input type="text" class="form-control"
+<<<<<<< HEAD
 																value="<?php echo set_value('pinnum'); ?>" name="pinnum"
 																id="pinnum" placeholder="Enter Your Pin Number">
+=======
+																value="" name="mobile"
+																id="mobile" required="required">
+>>>>>>> 0b3390a246fde0fcc345068373f12ad08cef5151
 															</div>	
 														
 									<?php echo form_error('pinnum');?>
 									</div>
+<<<<<<< HEAD
 									  <script>$("#area").change(function(){
 								var state = $("#state").val();
 								var city = $("#city").val();
@@ -213,6 +254,14 @@
 												</div>
 												<div class="col-md-3">
 												<input type="radio" name="gender" value="<?php echo set_value('gender'); ?>"><font color="white"><b>Female</font>
+=======
+                                <div class="col-md-6">  <div class="col-md-5"><span class="label label-default">Gender
+											</span> </div>
+												<div class="col-md-7">	
+												<input type="text" class="form-control"
+																value="" name="dob"
+																id="dob" required="required">
+>>>>>>> 0b3390a246fde0fcc345068373f12ad08cef5151
 														</div>
 					                    <?php echo form_error('gender');
 					                    ?> 
