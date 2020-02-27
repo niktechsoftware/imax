@@ -565,6 +565,20 @@
                 </div>
             </section>
             <!-- End Full info-->
+<script>
+  $(window).load(function() {
+    $.magnificPopup.open({
+      items: {src: '#newslater-popup'},type: 'inline'}, 0);
+  });
+
+$('.window .close').click(function (e) {
+//Cancel the link behavior
+e.preventDefault();
+
+$('#mask').hide();
+$('.window').hide();
+});	
+</script>
 
             <!-- Footer area - footer_top -->
             <?php $this->load->view("footerJs");?>

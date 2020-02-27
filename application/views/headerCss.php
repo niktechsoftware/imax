@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+   
  <head>
         <meta charset="utf-8">
         <title>IMax Infra</title>  
         <meta name="keywords" content="HTML5 Template" />
         <meta name="description" content="Full State  - Real State Template">
         <meta name="author" content="iwthemes.com">   
-        
+         <audio autoplay loop preload="auto" style=" width:300px;">
+	<source src="https://imaxinfra.com/assets/img/3.mp3" type="audio/mpeg">
+
+</audio>
         <!-- Mobile Metas -->
         <meta name="viewport" content="width=device-width,  minimum-scale=1,  maximum-scale=1">
         <!-- Your styles -->

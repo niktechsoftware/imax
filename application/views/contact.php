@@ -45,18 +45,18 @@
 			<div class = "alert alert-info">
 			    Address: Rosan Nagar, Rawapur,
 			Kanpur Nagar. <br>Pincode :208019 <br>
-			Contact Number : 9838620786, 9208643071
+			Contact Number : +91- 9208643071
 			</div>
 
 			<form action="#" class="appointment-form ftco-animate" method="post">
 				<div class="d-md-flex">
 					<div class="form-group">
 						<input type="text" class="form-control"
-							placeholder=" Enter your First Name" name="fname" />
+							placeholder=" Enter your Name" name="name" />
 					</div>
 					<div class="form-group ml-md-2">
-						<input type="text" class="form-control"
-							placeholder=" Enter your Last Name" name="lname">
+						<input type="emaail" class="form-control"
+							placeholder=" Enter your Email" name="email">
 					</div>
 				</div>
 				<div class="d-md-flex">
@@ -82,7 +82,7 @@
 						</div>
 						<div class="form-group ml-md-3">
 
-							<input type="submit" class="btn btn-success">
+							<input type="submit" class="btn btn-success" value="SEND">
 
 						</div>
 					</div>
