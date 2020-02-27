@@ -10,37 +10,40 @@
                          
                              <div class="item_property">
                                 <div class="head_property">
-                                  <a href="properties.html">
+                                  
                                     <div class="title sale"></div>
                                     <img src="<?php echo base_url();?>assets/img/property/3.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
+                                  
                                 </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
-                                        <li><strong>Price</strong><span>1000</span></li>
-                                    </ul>                                 
-                                </div>
+                                
                             </div>
                             <!-- End Item Property-->
 
                             <!-- Item Property-->
                             <div class="item_property">
                                 <div class="head_property">
-                                  <a href="properties.html">
+                                 
                                     <div class="title rent"></div>
                                     <img src="<?php echo base_url();?>assets/img/property/4.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
                                 </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
-                                        <li><strong>Price</strong><span>1000rs</span></li>
-                                    </ul>                                 
-                                </div>
                             </div>
+                             <div class="image_post">
+                                <div class="head_property">
+                                    <div class="title rent"></div>
+                                    <img src="<?php echo base_url();?>assets/images/vimg2.jpg" alt="Image">
+                                </div>                        
+                                
+                              </div>
+                              
+                                <div class="image_post">
+                                <div class="head_property">
+                                    <div class="title rent"></div>
+                                    <img src="<?php echo base_url();?>assets/images/vimg2.jpg" alt="Image">
+                                </div>                        
+                                
+                              </div>                       
+                                
+                              </div>
                             <!-- End Item Property-->
                             
                             </div>

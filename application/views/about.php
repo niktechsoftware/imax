@@ -4,7 +4,7 @@
                     <div class="row"> 
                         <div class="col-md-8">
                             <h1>Imax Infra
-                                <span><a href="<?php echo base_url();?>welcome/">Home </a> / Registration</span>
+                                <span><a href="<?php echo base_url();?>welcome/">Home </a> / About Us</span>
                             </h1>
                         </div>     
                     </div>
@@ -83,7 +83,7 @@
 </div>
 <br>
 
-
+</div>
 </div>
 <br><br>
 

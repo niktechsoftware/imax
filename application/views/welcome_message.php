@@ -1,6 +1,15 @@
+
+
+               
+               
+   
 <?php $this->load->view("headerCss");?>
        
                 <!-- Filter Search-->
+
+
+
+
 
            <?php   //$this->load->view("slider_form"); ?>
 
@@ -8,9 +17,10 @@
                 
                 <!-- Slide -->           
                <?php $this->load->view("slider");?> 
-                <!-- End Slide -->   
-           
-            <!-- End Header-->
+               
+               
+             
+                 <!-- End Header-->
 
             <!-- content info -->
             <div class="content_info">
@@ -32,6 +42,8 @@
                                     </form> 
                                     <div id="result-newsletter"></div> 
                                 </div>
+                                
+                                
                             </div>
                         </div>
                     </div>
@@ -88,164 +100,104 @@
                     <div class="row">
                         <!-- Item Property-->
                         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="item_property">
+                            <div class="image_post">
                                 <div class="head_property">
-                                    <a href="properties.html">
+                                   
                                       <div class="title rent"></div>
                                       <img src="<?php echo base_url();?>assets/img/property/1.jpg" alt="Image">
-                                      <h5>Central Park Ny</h5>
-                                    </a>
+                                      
+                                    
                                 </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>Kanpur</span></li>
-                                        <li><strong>Price</strong><span>1700rs</span></li>
-                                    </ul>                                 
-                                </div>
+                                
                             </div>
                         </div>
                         <!-- Item Property-->
 
                         <!-- Item Property-->
                         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="item_property">
+                            <div class="image_post">
                                 <div class="head_property">
-                                  <a href="properties.html">
                                     <div class="title sale"></div>
                                     <img src="<?php echo base_url();?>assets/img/property/2.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
                                 </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>Kanpur</span></li>
-                                        <li><strong>Price</strong><span>1700rs</span></li>
-                                    </ul>                                 
-                                </div>
+                                
                               </div>
                         </div>
                         <!-- Item Property-->
 
                         <!-- Item Property-->
                         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="item_property">
+                            <div class="image_post">
                                 <div class="head_property">
-                                  <a href="properties.html">
                                     <div class="title sale"></div>
                                     <img src="<?php echo base_url();?>assets/images/images (1).jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
-                                </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>Kanpur</span></li>
-                                        <li><strong>Price</strong><span>1700rs</span></li>
-                                    </ul>                                 
-                                </div>
-                              </div>
+                                 </div>                        
+                               </div>
                         </div>
                         <!-- Item Property-->
 
                         <!-- Item Property-->
                         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="item_property">
+                            <div class="image_post">
                                 <div class="head_property">
-                                  <a href="properties.html">
+                                  
                                     <div class="title rent"></div>
                                     <img src="<?php echo base_url();?>assets/images/property3.jpeg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
-                                </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>Kanpur </span></li>
-                                        <li><strong>Price</strong><span>1700rs</span></li>
-                                    </ul>                                 
-                                </div>
+                                 </div>                        
+                                
                               </div>
                         </div>
                         <!-- Item Property-->
                       
                         <!-- Item Property-->
                         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="item_property">
+                            <div class="image_post">
                                 <div class="head_property">
-                                  <a href="properties.html">
                                     <div class="title rent"></div>
                                     <img src="<?php echo base_url();?>assets/images/vimg2.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
                                 </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
-                                        <li><strong>Price</strong><span>1000rs</span></li>
-                                    </ul>                                 
-                                </div>
+                                
                               </div>
                         </div>
                         <!-- Item Property-->
 
                         <!-- Item Property-->
                         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="item_property">
+                            <div class="image_post">
                                 <div class="head_property">
-                                  <a href="properties.html">
+                                  
                                     <div class="title sale"></div>
                                     <img src="<?php echo base_url();?>assets/images/h1.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
                                 </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>kanpur dehat</span></li>
-                                        <li><strong>Price</strong><span>1000rs.</span></li>
-                                    </ul>                                 
-                                </div>
+                                
                               </div>
                         </div>
                         <!-- Item Property-->
 
                         <!-- Item Property-->
                         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="item_property">
+                            <div class="image_post">
                                 <div class="head_property">
-                                  <a href="properties.html">
-                                    <div class="title sale"></div>
+                                   <div class="title sale"></div>
                                     <img src="<?php echo base_url();?>assets/img/property/7.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
-                                </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
-                                        <li><strong>Price</strong><span>1000rs</span></li>
-                                    </ul>                                 
-                                </div>
+                                
                               </div>
                         </div>
+                        </div>
                         <!-- Item Property-->
-
-                        <!-- Item Property-->
-                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="item_property">
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="image_post">
                                 <div class="head_property">
-                                  <a href="properties.html">
-                                    <div class="title rent"></div>
-                                    <img src="<?php echo base_url();?>assets/img/property/8.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
-                                </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>kanpur dehat</span></li>
-                                        <li><strong>Price</strong><span>1000rs</span></li>
-                                    </ul>                                 
-                                </div>
+                                   <div class="title sale"></div>
+                                    <img src="<?php echo base_url();?>assets/img/property/7.jpg" alt="Image">
+                                
                               </div>
                         </div>
+                        </div>
                         <!-- Item Property-->
-                    </div>
+                        </div>
+                        <!-- Item Property-->
+                    
                     <!-- End Row Properties-->
 
                     <!-- Features -->
@@ -361,133 +313,81 @@
                     </div>
                     <!-- End Features -->
 
-                    <!-- Content Carousel Properties -->
-                    <div class="content-carousel">
+                   <!--  Content Carousel Properties -->
+                   <div class="content-carousel">
                         <div class="row">
-                            <div class="col-md-12">
-                                <!-- Divisor-->
-                                <div class="divisor">
-                                    <div class="circle_left"></div>
-                                    <div class="circle_right"></div>
-                                </div>
+                             <div class="col-md-12">
+                            <!-- Divisor-->
+                            <div class="divisor">
+                                <div class="circle_left"></div>
+                                <div class="circle_right"></div>
+                            </div>
+                            </div>
+                            </div>
                                 <!-- End Divisor-->
-
+                             </div>
+                        </div>
+                                
                                 <!-- Title-->
                                 <div class="titles">
                                     <h1>CAROUSEL PROPERTIES</h1>
                                 </div>
                                 <!-- End Title-->
-                            </div>
-                        </div>
-
+                         
                         <!-- Carousel Properties -->
                         <div id="properties-carousel" class="properties-carousel">
                             <!-- Item Property-->
-                            <div class="item_property">
+                            <div class="image_post">
                                 <div class="head_property">
-                                  <a href="properties.html">
+                                  
                                     <div class="title rent"></div>
                                     <img src="<?php echo base_url();?>assets/img/property/1.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
                                 </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
-                                        <li><strong>Price</strong><span>1000rs</span></li>
-                                    </ul>                                 
-                                </div>
-                            </div>
+                             </div>
                             <!-- Item Property-->
 
                             <!-- Item Property-->
-                            <div class="item_property">
+                            <div class="image_post">
                                 <div class="head_property">
-                                  <a href="properties.html">
-                                    <div class="title sale"></div>
+                                  <div class="title sale"></div>
                                     <img src="<?php echo base_url();?>assets/img/property/2.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
                                 </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
-                                        <li><strong>Price</strong><span>1000rs</span></li>
-                                    </ul>                                 
-                                </div>
                             </div>
                             <!-- End Item Property-->
 
                             <!-- Item Property-->
-                             <div class="item_property">
+                             <div class="image_post">
                                 <div class="head_property">
-                                  <a href="properties.html">
                                     <div class="title sale"></div>
                                     <img src="<?php echo base_url();?>assets/img/property/3.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
                                 </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
-                                        <li><strong>Price</strong><span>1000</span></li>
-                                    </ul>                                 
-                                </div>
+                                
                             </div>
                             <!-- End Item Property-->
 
                             <!-- Item Property-->
-                            <div class="item_property">
+                            <div class="image_post">
                                 <div class="head_property">
-                                  <a href="properties.html">
                                     <div class="title rent"></div>
                                     <img src="<?php echo base_url();?>assets/img/property/4.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
-                                </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>Kanpur dehat</span></li>
-                                        <li><strong>Price</strong><span>1000rs</span></li>
-                                    </ul>                                 
-                                </div>
+                                 </div>                        
                             </div>
                             <!-- End Item Property-->
 
                             <!-- Item Property-->
-                             <div class="item_property">
+                             <div class="image_post">
                                 <div class="head_property">
-                                  <a href="properties.html">
-                                    <div class="title sale"></div>
+                                   <div class="title sale"></div>
                                     <img src="<?php echo base_url();?>assets/img/property/3.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
-                                </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>kanpur dehat</span></li>
-                                        <li><strong>Price</strong><span>1000rs</span></li>
-                                    </ul>                                 
-                                </div>
-                            </div>
+                                 </div>                        
+                             </div>
                             <!-- End Item Property-->
 
                             <!-- Item Property-->
-                            <div class="item_property">
-                                <div class="head_property">
-                                  <a href="properties.html">
-                                    <div class="title rent"></div>
-                                    <img src="<?php echo base_url();?>assets/img/property/8.jpg" alt="Image">
-                                    <h5>Central Park Ny</h5>
-                                  </a>
-                                </div>                        
-                                <div class="info_property">                                  
-                                    <ul>
-                                        <li><strong>Place </strong><span>kanpur dehat</span></li>
-                                        <li><strong>Price</strong><span>1000rs</span></li>
-                                    </ul>                                 
-                                </div>
-                            </div>
+                            <div class="image_post">
+                            <div class="head_property">
+                                   <img src="<?php echo base_url();?>assets/img/property/8.jpg" alt="Image">
+                             </div>
                             <!-- End Item Property-->
                         </div>
                         <!-- End Carousel Properties -->
@@ -580,5 +480,8 @@ $('.window').hide();
 });	
 </script>
 
+
+</div>
+            
             <!-- Footer area - footer_top -->
             <?php $this->load->view("footerJs");?>

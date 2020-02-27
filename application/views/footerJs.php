@@ -59,10 +59,9 @@
                 <div class="container">
                     <div class="row">
                        <div class="col-md-6">
-                          
-                          
 
                 </div>  <p>&copy; 2020 Design by NIKTECH SOFTWARE SOLUTIONS.</p>             
+
                         </div>
                         <div class="col-md-6">
                             <ul class="social tooltip-demo">
@@ -92,12 +91,13 @@
    
         <!-- ======================= JQuery libs =========================== -->
         <!-- Core JS Libraries -->
+
          <audio autoplay loop preload="auto" style=" width:300px;">
 	<source src="https://imaxinfra.com/assets/img/3.mp3" type="audio/mpeg">
 
 </audio>
 
-        <script src="<?php echo base_url();?>assets/js/jquery.min.js"></script>         
+ 
         <!--Nav-->
         <script type="text/javascript" src="<?php echo base_url();?>assets/js/nav/tinynav.js"></script> 
         <script type="text/javascript" src="<?php echo base_url();?>assets/js/nav/superfish.js"></script>  
