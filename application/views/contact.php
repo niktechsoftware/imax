@@ -1,10 +1,6 @@
 <?php $this->load->view('headerCss');?>
 
-<div class="row">
-	<div class="col-sm-6 content" style="float: left;">
 
-		<div class="row" style="margin-left: 9%; background-color:white; border-radius: 25px; margin-top:8%;">
-			</br> 
 
 <div class="section_title features">
                 <div class="container">
@@ -26,7 +22,7 @@
                               <div class="col-md-8">
                                   <h3>
                                      Imax Infra 
-                                      <span>-à¤¸à¥‹à¤šà¥‹ à¤�à¤• à¤¨à¤ˆ à¤¦à¥�à¤¨à¤¿à¤¯à¤¾ .. .. à¤–à¥�à¤¶à¤¿à¤¯à¤¾à¤� à¤¹à¥‹à¤‚ à¤œà¤¹à¤¾à¤� |</span>
+                                      <span>सोचो एक नई दुनिया .. .. खुशियाँ हों जहाँ |</span>
                                   </h3>                    
                                 </div>
                                 <div class="col-md-4">
@@ -95,7 +91,7 @@
 		</div>
 
 	</div>
-</div>
+
 <div class="col-sm-6 content" style="float: right;height:500px;width:500px; ">
 
 <br/>
