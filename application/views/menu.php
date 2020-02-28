@@ -71,7 +71,7 @@
                                     <li><a href="index-map-two.html">Home Version 4</a></li> -->
                                 </ul>
                             </li>
-                            <li><a href="<?php echo base_url();?>index.php/welcome/about">Abou us</a>
+                            <li><a href="<?php echo base_url();?>index.php/welcome/about">About us</a>
                           
                            <ul> 
                                   <!--   <li><a href="index.html">Home Version 1</a></li>                                 

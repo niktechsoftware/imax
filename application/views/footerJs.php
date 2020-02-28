@@ -89,7 +89,7 @@
                     <div class="row">
                        <div class="col-md-6">
                           
-                            <p>&copy; 2020 Design by NIKTECH SOFTWARE SOLUTHIONS.</p>             
+                            <p>&copy; 2020 Design by NIKTECH SOFTWARE SOLUTIONS.</p>             
                         </div>
                         <div class="col-md-6">
                             <ul class="social tooltip-demo">

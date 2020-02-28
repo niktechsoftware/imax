@@ -1,3 +1,15 @@
+ <link rel="stylesheet" href="<?php echo base_url();?>assets/swc.css">
+<div id="boxes">
+<div style="top: 50%; left: 50%; display: none;" id="dialog" class="window"> 
+<div id="san">
+<a href="#" class="close agree"><img src="<?php echo base_url();?>assets/close-icon.png" width="25" style="float:right; margin-right: -25px; margin-top: -20px;"></a>
+<img src="<?php echo base_url();?>assets/images/imax_pop.jpg" width="650">
+</div>
+</div>
+<div style="width: 2478px; font-size: 32pt; color:white; height: 1202px; display: none; opacity: 0.4;" id="mask"></div>
+</div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script> 
+<script src="<?php echo base_url();?>assets/swc.js"></script>
  <div class="camera_wrap camera_white_skin" id="slide">
                     <!-- Item Slide -->  
                     <div  data-src="<?php echo base_url();?>assets/img/slide/slides/1.jpg">

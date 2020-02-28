@@ -22,7 +22,7 @@
                     <img src="<?php echo base_url();?>assets/images/cod1.jpg"height="200" width="400" alt="Image" >
                   
 				</div>
-				<h3 id="grid-intro">Pin Card of Company</h3> 
+				<h3 id="grid-intro">Pan Card of Company</h3> 
 					<div class="team-member-name">
 					<h4 class="text_center"><a href="#" class="text-body"></a></h4>	
 						
