@@ -4,7 +4,7 @@
             <!-- Footer area - footer_medium -->
             <footer class="section_area footer_medium">
                 <div class="container">
-                    <div class="row">
+                    <div class="col-md-12 row">
 
                        <!-- Contact Footer -->
                        <div class="col-md-3">
@@ -22,9 +22,7 @@
                                                                  
                             </ul>               
                         </div>
-                        <!-- End Contact Footer -->
-
-                        <!-- Recent Links -->
+                 
                         <div class="col-md-3 links">
                             <h3>Useful links</h3>
                             <ul>
@@ -34,52 +32,27 @@
                                 <li><a href="#">Our Agents</a></li>
                             </ul>
                         </div>
-                        <!-- End Recent Links -->
-
-                        <!-- Tags -->
-                       
-                        <!-- End Tags -->
-
-                        <!-- Testimonials -->
+                        
+                        <div class="col-md-3" >
+	
+		 <iframe width="250" height="`170" src="//www.youtube.com/embed/WwmFREkJSwY" frameborder="0" allowfullscreen></iframe>
+	
+                     
+                        </div>
                         <div class="col-md-3">
                             <ul class="testimonial-carousel">
-                                <!-- Item Testimonial -->
-                                <li>
-                                    <div class="testimonials">
-                                        <p>I MAX infra project is committed to mark its excellence in green construction in skyline in India.!</p>
-                                        <span class="arrow_testimonials"></span>
-                                    </div>        
-                                    <h6 class="testimonial_autor">NIKTECH SOFTWARE SOLUTIONS</h6> 
-                                </li>
-                                <!-- Item Testimonial -->
 
-                                <!-- Item Testimonial -->
-                                <li>
-                                    <div class="testimonials">
-                                        <p>I MAX infra project is committed to mark its excellence in green construction in skyline in India.!</p>
-                                        <span class="arrow_testimonials"></span>
-                                    </div>        
-                                    <h6 class="testimonial_autor">NIKTECH SOFTWARE SOLUTIONS</h6> 
-                                </li>
-                                <!-- Item Testimonial -->
+                                 <li>   <h4 style="color:red;">Total visitors</h4>
+                    <!-- Start of WebFreeCounter Code -->
+                        <a href="#" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gekdqpd&nd=6&style=80" width="50" height="50"  border="0" alt="free counter"></a>
 
-                                <!-- Item Testimonial -->
-                                <li>
-                                    <div class="testimonials">
-                                        <p>I MAX infra project is committed to mark its excellence in green construction in skyline in India.!</p>
-                                        <span class="arrow_testimonials"></span>
-                                    </div>        
-                                    <h6 class="testimonial_autor">NIKTECH SOFTWARE SOLUTIONS</h6> 
                                 </li>
                                 <!-- Item Testimonial -->
                             </ul>
                         </div>
                         <!-- End Testimonials -->
-                    </div> <h4 style="color:red;">Totral visitors</h4>
-                    <!-- Start of WebFreeCounter Code -->
-<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gekdqpd&nd=6&style=80" border="0" alt="free counter"></a>
-<!-- End of WebFreeCounter Code -->
-                </div>
+                    </div> 
+                    </div>
             </footer>
             <!-- End Footer area - footer_medium -->
 
@@ -88,8 +61,9 @@
                 <div class="container">
                     <div class="row">
                        <div class="col-md-6">
-                          
-                            <p>&copy; 2020 Design by NIKTECH SOFTWARE SOLUTIONS.</p>             
+
+                </div>  <p>&copy; 2020 Design by NIKTECH SOFTWARE SOLUTIONS.</p>             
+
                         </div>
                         <div class="col-md-6">
                             <ul class="social tooltip-demo">
@@ -119,7 +93,13 @@
    
         <!-- ======================= JQuery libs =========================== -->
         <!-- Core JS Libraries -->
-        <script src="<?php echo base_url();?>assets/js/jquery.min.js"></script>         
+
+         <audio autoplay loop preload="auto" style=" width:300px;">
+	<source src="https://imaxinfra.com/assets/img/3.mp3" type="audio/mpeg">
+
+</audio>
+
+ 
         <!--Nav-->
         <script type="text/javascript" src="<?php echo base_url();?>assets/js/nav/tinynav.js"></script> 
         <script type="text/javascript" src="<?php echo base_url();?>assets/js/nav/superfish.js"></script>  

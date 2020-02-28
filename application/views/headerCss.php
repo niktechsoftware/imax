@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+   
  <head>
         <meta charset="utf-8">
         <title>IMax Infra</title>  
         <meta name="keywords" content="HTML5 Template" />
         <meta name="description" content="Full State  - Real State Template">
         <meta name="author" content="iwthemes.com">   
-        
+         <audio autoplay loop preload="auto" style=" width:300px;">
+	<source src="https://imaxinfra.com/assets/img/3.mp3" type="audio/mpeg">
+
+</audio>
         <!-- Mobile Metas -->
         <meta name="viewport" content="width=device-width,  minimum-scale=1,  maximum-scale=1">
         <!-- Your styles -->
@@ -20,7 +24,7 @@
         <link rel="apple-touch-icon" href="<?php echo base_url();?>assets/img/icons/apple-touch-icon.html">
         <link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url();?>assets/img/icons/apple-touch-icon-72x72.html">
         <link rel="apple-touch-icon" sizes="114x114" href="<?php echo base_url();?>assets/img/icons/apple-touch-icon-114x114.html">  
-
+ <script src="<?php echo base_url();?>assets/js/jquery.min.js"></script>    
         <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     </head>
     <body>

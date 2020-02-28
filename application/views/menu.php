@@ -33,18 +33,12 @@
                     <div class="row">
                         <div class="col-md-12">
                             <ul>  
-                                <li><i class="fa fa-headphones"></i><a href="#">9838620786</a></li>
-                                <li><i class="fa fa-headphones"></i><a href="#">9208643071</a></li>
+                               
+                                <li><i class="fa fa-phone"></i><a href="#">+91-9208643071</a></li>
+                                <li><i class="fa fa-envelope"></i><a href="#">imaxinfra77@gmail.com</a></li>
                                 <li>
-                                    <ul>
-                                      <li class="dropdown">
-                                        <i class="fa fa-globe"></i> 
-                                       Live chat <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-                                            <i class="fa fa-angle-down"></i>
-                                        </a>
-                                     
-                                      </li>                      
-                                    </ul>
+                                    
+                                    
                                 </li>
                             </ul> 
                         </div>
@@ -63,7 +57,7 @@
                         <!-- Menu-->
                         <ul id="menu" class="col-md-9 sf-menu">
                             <li>
-                                <a href="<?php echo base_url();?>index.php">Home</a>
+                                <a href="<?php echo base_url();?>index.php">HOME</a>
                                 <ul> 
                                    <!--  <li><a href="index.html">Home Version 1</a></li>                                 
                                     <li><a href="index-list.html">Home Version 2</a></li>
@@ -71,22 +65,23 @@
                                     <li><a href="index-map-two.html">Home Version 4</a></li> -->
                                 </ul>
                             </li>
-                            <li><a href="<?php echo base_url();?>index.php/welcome/about">About us</a>
+                   <li><a href="<?php echo base_url();?>index.php/welcome/about">ABOUT US</a>
+
                           
                            <ul> 
                                   <!--   <li><a href="index.html">Home Version 1</a></li>                                 
                                     <li><a href="index-list.h">Home Version 2</a></li>--> 
                                     </ul>
                              <li>
-                                <a href="#">Products</a>
+                                <a href="#">PROJECTS</a>
                                 <ul>
-                                 <li><a href="<?php echo base_url();?>index.php/welcome/land">land Investment</a></li>                                 
-                                    <li><a href="<?php echo base_url();?>index.php/welcome/home">Home Investment </a></li>
+                                 <li><a href="<?php echo base_url();?>index.php/welcome/land">LAND INVESTMENT</a></li>                                 
+                                    <li><a href="<?php echo base_url();?>index.php/welcome/home">HOME INVESTMENT </a></li>
                                 </ul>
                                 </li>
                                 
                                
-                                   <li><a href="<?php echo base_url();?>index.php/welcome/registration">Registration</a>
+                                   <li><a href="<?php echo base_url();?>index.php/welcome/registration">REGISTRATION</a>
                                         <ul>                                  
                                          <!--  <li><a href="step_1.html">Register Agent</a></li>
                                           <li><a href="step_2.html">Register Property</a></li>
@@ -100,14 +95,14 @@
                                 </ul>
                             </li>  
                             <li>
-                                  <a href="<?php echo base_url();?>index.php/welcome/gallery">Gallery</a>
+                                  <a href="<?php echo base_url();?>index.php/welcome/gallery">GALLERY</a>
                                 
                             </li>  
                             <li>
-                                  <a href="<?php echo base_url();?>index.php/welcome/document">Documents</a>
+                                  <a href="<?php echo base_url();?>index.php/welcome/document">DOCUMENTS</a>
                                 
                             </li>                                                                           
-                            <li><a href="<?php echo base_url();?>index.php/welcome/contact">contact us</a></li>
+                            <li><a href="<?php echo base_url();?>index.php/welcome/contact">CONTACT US</a></li>
                         </ul>
                         <!-- End Menu-->
                     </div>
