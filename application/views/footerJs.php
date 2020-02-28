@@ -46,7 +46,7 @@
                                 <!-- Item Testimonial -->
                                 <li>
                                     <div class="testimonials">
-                                        <p>I MAX infra project pvt.ltd. is committed to mark its excellence in green construction in skyline in India.!</p>
+                                        <p>I MAX infra project is committed to mark its excellence in green construction in skyline in India.!</p>
                                         <span class="arrow_testimonials"></span>
                                     </div>        
                                     <h6 class="testimonial_autor">NIKTECH SOFTWARE SOLUTIONS</h6> 
@@ -56,7 +56,7 @@
                                 <!-- Item Testimonial -->
                                 <li>
                                     <div class="testimonials">
-                                        <p>I MAX infra project pvt.ltd. is committed to mark its excellence in green construction in skyline in India.!</p>
+                                        <p>I MAX infra project is committed to mark its excellence in green construction in skyline in India.!</p>
                                         <span class="arrow_testimonials"></span>
                                     </div>        
                                     <h6 class="testimonial_autor">NIKTECH SOFTWARE SOLUTIONS</h6> 
@@ -66,7 +66,7 @@
                                 <!-- Item Testimonial -->
                                 <li>
                                     <div class="testimonials">
-                                        <p>I MAX infra project pvt.ltd. is committed to mark its excellence in green construction in skyline in India.!</p>
+                                        <p>I MAX infra project is committed to mark its excellence in green construction in skyline in India.!</p>
                                         <span class="arrow_testimonials"></span>
                                     </div>        
                                     <h6 class="testimonial_autor">NIKTECH SOFTWARE SOLUTIONS</h6> 
